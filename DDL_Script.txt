@@ -1,0 +1,115 @@
+create schema Medical_Records;
+set SEARCH_PATH to Medical_Records;
+
+create table if not exists city(
+	Pin_Code varchar(10) primary key,
+	City_Name varchar(30)
+);
+
+create table if not exists patient(
+    P_ssn bigint check(P_ssn between 1 and 999999999) primary key,
+    P_Name varchar(30),
+    Gender char(1) check(Gender='M' or Gender='F'),
+    B_Date date,
+    Contact_No bigint check(Contact_No between 0 and 9999999999),
+    Pin_Code varchar(10) references city
+);
+
+create table if not exists doctor(
+	D_ssn bigint check (D_ssn between 1 and 999999999) primary key,
+	D_Name varchar(30),
+	B_Date date,
+	Contact_No bigint check(Contact_No between 0 and 9999999999),
+	Address varchar(50),
+	Office_Addr varchar(50),
+	Gender char(1) check(Gender='M' or Gender='F'),
+	Pervisitfee int check(Pervisitfee>0)
+);
+
+create table if not exists records(
+	Record_id varchar(10) primary key,
+	P_ssn bigint check(P_ssn between 1 and 999999999) not null references patient
+);
+
+create table if not exists details(
+	Record_id varchar(10) references record,
+	Type_Name varchar(10) not null,
+	Parameter_Name varchar not null,
+	Parameter_Count decimal not null,
+	primary key(Record_id,Record_Type_Name)
+);
+
+create table if not exists visit(
+	Visit_id varchar(10) primary key,
+	visit_Date date,
+	Complaints varchar(300),
+	P_ssn bigint check(P_ssn between 1 and 999999999) not null references patient,
+	D_ssn bigint check(D_ssn between 1 and 999999999) not null references doctor
+);
+
+create table if not exists diagnosis(
+	Diagnosis_id varchar(10) primary key,
+	Dia_Name varchar(50) not null
+);
+
+create table if not exists yields(
+	Visit_id varchar(10) references visit
+	Diagnosis_id varchar(10) references diagnosis,
+);
+
+create table if not exists prescription(
+	Pres_id varchar(10) primary key,
+	Medicine_Quantity int check(Medicine_Quantity>0),
+	Disease_Description varchar(100),
+	Instructions varchar(50),
+	Visit_id varchar(10) references visit not null
+);
+
+create table if not exists medicines(
+	MInventory_id varchar(10) primary key,
+	M_name varchar(30),
+	Price int check(price>0),
+	Quantity int check(quantity>0),
+	Exp_date Date
+);
+
+create table if not exists presmedicine(
+	Prescription_id varchar(10) references prescription,
+	Inventory_id varchar(10) references medicines,
+	Pres_Qty int check(Pres_Qty>0) not null,
+	primary key(Pres_id,MInventory_id)
+);
+
+create table if not exists manufacturer(
+	M_id varchar(10) primary key,
+	M_Name varchar(30)
+);
+
+create table if not exists manufactured_by(
+	MInventory_id varchar(10) references medicines,
+	M_id varchar(10) references manufacturer,
+	primary key(MInventory_id, M_id)
+);
+
+create table if not exists insurance_company(
+	Ins_id varchar(10) primary key,
+	Name varchar(30),
+	Contact_No bigint check(Contact_No between 0 and 9999999999),
+	Pin_Code varchar(10) references city
+);
+
+create table if not exists bill(
+	Bill_No varchar(10) primary key,
+	Amount int check(Amount>0),
+	Bill_Date date,
+	Due_Date date,
+	Visit_id varchar(10) references visit not null,
+	Ins_id varchar(10) references Insurance_Company
+);
+
+create table if not exists payment(
+	Transaction_id varchar(10) primary key,
+	Bill_No varchar(10) references bill not null,
+	Payment_Method varchar(30),
+	P_Date date
+);

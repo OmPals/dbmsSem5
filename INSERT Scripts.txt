@@ -1,0 +1,3032 @@
+1) Insert For patient
+
+%%%%%%%%%%%%%%%%%
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+1, 'Paxon Oakhill', 'M', '3/3/2013', 
+9005701692, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+2, 'Aube Spurdle', 'M', '8/4/1934', 
+6718218405, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+3, 'Livy Oran', 'F', '7/11/2016', 0565576429, 
+'58750-000'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+4, 'Jedidiah Benettelli', 'M', '10/16/1949', 
+7943324323, '999-7767'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+5, 'Shirley McKague', 'F', '1/17/1974', 
+8680474568, '77-124'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+6, 'Cammy Hardwick', 'F', '12/23/1960', 
+3523245532, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+7, 'Jerry Klimushev', 'M', '9/9/1955', 
+4810917185, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+8, 'Berty Debrick', 'M', '7/21/1983', 
+5270139235, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+9, 'Roscoe Capeling', 'M', '7/9/1921', 
+4187409017, '7340-214'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+10, 'Nissa Allewell', 'F', '7/11/1912', 
+8512764910, 45750
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+11, 'Kippie Bamling', 'M', '3/3/1906', 
+6170866179, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+12, 'Hendrick Plumb', 'M', '5/9/1948', 
+0715903306, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+13, 'Ninetta Felgate', 'F', '11/2/1909', 
+8511253262, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+14, 'Bar Bonas', 'M', '7/19/1914', 
+4395050859, '62-570'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+15, 'Jeanelle Catherine', 'F', '12/26/1905', 
+9136437956, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+16, 'Lorie Dresse', 'F', '8/25/1931', 
+9291384887, '67144 CEDEX'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+17, 'Eziechiele Streeting', 'M', '11/21/1993', 
+3240597748, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+18, 'Cyndy Gorioli', 'F', '5/11/1927', 
+3232898637, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+19, 'Dun Upchurch', 'M', '8/10/1992', 
+8256309784, 1485
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+20, 'Courtney Hedon', 'M', '7/27/1939', 
+5909076027, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+21, 'Benedetta Tussaine', 'F', '1/31/1921', 
+7516004979, '869-0233'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+22, 'Chet Tewkesberrie', 'M', '3/1/1936', 
+0269314954, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+23, 'Daisi Habble', 'F', '7/9/1987', 
+3651131629, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+24, 'Ayn Whoston', 'F', '11/2/1911', 
+6008741560, '86000-000'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+25, 'Lia Davidsen', 'F', '12/19/2012', 
+5032048259, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+26, 'Melisse Dilston', 'F', '1/4/1980', 
+7392031147, 422840
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+27, 'Korrie Faulkner', 'F', '10/30/1951', 
+8420670111, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+28, 'Khalil Snelling', 'M', '5/28/1981', 
+8726804964, 690922
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+29, 'Gorden Itzchaki', 'M', '2/1/1988', 
+3966282356, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+30, 'Anett Radbourn', 'F', '12/5/1975', 
+0191282049, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+31, 'Winifield Jobling', 'M', '12/27/1987', 
+3984127839, '533 52'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+32, 'John Vescovo', 'M', '5/23/1972', 
+8566227697, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+33, 'Marshall Secrett', 'M', '1/14/1998', 
+8976154541, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+34, 'Rancell Hawkridge', 'M', '5/9/2009', 
+5897634955, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+35, 'Martin Speers', 'M', '6/9/1935', 
+1761840606, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+36, 'Ricard Obray', 'M', '11/8/1970', 
+9887870382, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+37, 'Darbee Meeson', 'M', '3/16/1942', 
+7027218038, '78-524'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+38, 'Anissa McLugaish', 'F', '7/17/1908', 
+6181416781, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+39, 'Del Scurrer', 'M', '11/1/2002', 
+4218171890, '43-229'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+40, 'Sibyl Skaif', 'M', '10/3/1917', 
+7546079268, 'L-9765'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+41, 'Liliane Follitt', 'F', '7/13/1909', 
+7686002020, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+42, 'Frederique Dyers', 'F', '6/25/1909', 
+4935115866, '796 25'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+43, 'Bryant Heinel', 'M', '1/30/1983', 
+2134200871, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+44, 
+'Redd O' Sherin ',' M ',' 8 / 22 / 2009 ',4599689734,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 45,' Mabel Otson ',' F ',' 4 / 30 / 1978 ',2338726987,' 29330 - 000 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 46,' Gino Chatin ',' M ',' 3 / 23 / 1994 ',5006315423,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 47,' Amanda Thornton ',' F ',' 12 / 15 / 1926 ',1904618847,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 48,' Elyssa Cogley ',' F ',' 10 / 31 / 1943 ',8389940299,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 49,' Vale Abramovitz ',' M ',' 7 / 19 / 1901 ',7690491189,86403);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 50,' Olivette Hemphill ',' F ',' 7 / 11 / 1987 ',7061501553,' P3L ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 51,' Dodie Kubacek ',' F ',' 9 / 1 / 1998 ',7869120103,250247);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 52,' Simona McIlmurray ',' F ',' 4 / 12 / 1967 ',0017954738,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 53,' Willem Sprull ',' M ',' 6 / 24 / 1971 ',7539806575,' L5W ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 54,' Roger Tootal ',' M ',' 8 / 11 / 1901 ',7718317552,303642);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 55,' Sashenka Iddiens ',' F ',' 5 / 30 / 2017 ',4596721076,' 811 - 2405 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 56,' Consolata Wadhams ',' F ',' 6 / 1 / 1923 ',3742185381,188420);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 57,' Hubert Talton ',' M ',' 10 / 8 / 1906 ',7553087351,' N37 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 58,' Adelbert Keyho ',' M ',' 8 / 24 / 1977 ',5857900670,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 59,' Andrej Bartles ',' M ',' 2 / 11 / 1936 ',0382114833,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 60,' Sibeal McIlraith ',' F ',' 3 / 1 / 1975 ',2689193574,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 61,' Christiano Minet ',' M ',' 11 / 24 / 1965 ',9968291277,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 62,' Xena Dureden ',' F ',' 7 / 10 / 1983 ',3712673639,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 63,' Jameson Liquorish ',' M ',' 2 / 11 / 1922 ',3018278224,' 465 96 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 64,' Edmon Filppetti ',' M ',' 1 / 3 / 1920 ',9480601168,' 503 - 2429 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 65,' Ellie Macauley ',' F ',' 11 / 23 / 1969 ',5235215729,243240);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 66,' Florencia Dusting ',' F ',' 12 / 19 / 2001 ',9454765094,' 4525 - 355 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 67,' Druci Colquitt ',' F ',' 8 / 28 / 2008 ',9054546484,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 68,' Clari Dilnot ',' F ',' 10 / 1 / 1929 ',1642738921,46852);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 69,' Luce MacKey ',' F ',' 8 / 28 / 1937 ',2882048823,04002);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 70,' Niccolo Bullingham ',' M ',' 12 / 8 / 2014 ',6914554056,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 71,' Giulia McGuckin ',' F ',' 12 / 2 / 1998 ',7517507796,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 72,' Julienne Mabbutt ',' F ',' 10 / 15 / 1961 ',3535912881,' 963 - 7856 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 73,' Pier Brake ',' F ',' 9 / 19 / 2018 ',7182987872,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 74,' Orv Mourton ',' M ',' 8 / 30 / 1935 ',0266320325,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 75,' Adam Iban ',' M ',' 11 / 15 / 1931 ',3547591694,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 76,' Elden Shyre ',' M ',' 1 / 21 / 1901 ',1735369195,10508);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 77,' Catarina Kall ',' F ',' 10 / 4 / 1950 ',5633470478,' 28890 - 000 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 78,' Brenda Rodders ',' F ',' 4 / 6 / 1950 ',5944900229,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 79,' Billie Orkney ',' F ',' 8 / 7 / 1915 ',1006233288,3122);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 80,' Harriett Yakov ',' F ',' 3 / 21 / 1934 ',2470070627,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 81,' Dayna Dunbleton ',' F ',' 7 / 10 / 1987 ',0615813801,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 82,' Adria Korting ',' F ',' 7 / 5 / 1904 ',4619029149,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 83,' Zak Burney ',' M ',' 6 / 28 / 1933 ',9623730543,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 84,' Audry Firmager ',' F ',' 5 / 11 / 1901 ',4021053417,2156);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 85,' Shelia Mahoney ',' F ',' 8 / 27 / 1943 ',3409812814,' 98 - 311 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 86,' Mirelle Winship ',' F ',' 8 / 25 / 1938 ',9945278665,188355);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 87,' Carmon Trimble ',' F ',' 12 / 15 / 1991 ',0693006285,72905);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 88,' Jasmin Cockayne ',' F ',' 7 / 18 / 1958 ',5044678813,25590);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 89,' Gregorius Templeton ',' M ',' 1 / 7 / 1914 ',7067527716,354084);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 90,' Abram Collyear ',' M ',' 1 / 11 / 2013 ',2702214010,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 91,' Ellie Thorald ',' F ',' 11 / 18 / 1926 ',4098309122,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 92,' Carolynn Szimon ',' F ',' 5 / 28 / 1971 ',8823643503,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 93,' Claire Early ',' F ',' 11 / 9 / 1932 ',0612003701,172029);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 94,' Connie Oscroft ',' M ',' 9 / 14 / 1944 ',0063533715,' 74 - 202 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 95,' Lind Knewstubb ',' F ',' 7 / 13 / 1900 ',6889612655,054028);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 96,' Glynda Bettridge ',' F ',' 7 / 24 / 2005 ',6571136945,' 72 - 210 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 97,' Karoly Bircher ',' M ',' 6 / 7 / 1989 ',9255028685,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 98,' Vick Petrus ',' M ',' 12 / 9 / 1959 ',7313207743,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 99,' Rancell Orth ',' M ',' 4 / 10 / 1906 ',9068466100,682803);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 100,' Alfred Sprackling ',' M ',' 8 / 20 / 1963 ',6555313145,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 101,' Fionna Chartres ',' F ',' 9 / 28 / 2001 ',6075793844,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 102,' Eugene Simson ',' M ',' 2 / 26 / 1964 ',5616667501,' 35903 CEDEX 9 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 103,' Datha Bradlaugh ',' F ',' 12 / 22 / 1956 ',2054951544,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 104,' Lennard Bonnin ',' M ',' 2 / 12 / 1937 ',0671363107,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 105,' Merle Loseke ',' M ',' 4 / 2 / 1957 ',1587033445,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 106,' Dyana Elliot ',' F ',' 7 / 26 / 1914 ',4018939604,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 107,' Herc Bonett ',' M ',' 12 / 14 / 1946 ',6435155283,142717);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 108,' Ulrick Tolputt ',' M ',' 7 / 4 / 1903 ',7726277467,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 109,' Roseanna MacWhan ',' F ',' 3 / 21 / 2016 ',6598745241,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 110,' Tammy Gerretsen ',' M ',' 11 / 3 / 1928 ',3701321078,2421);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 111,' Fritz McKissack ',' M ',' 4 / 26 / 1949 ',7586695954,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 112,' Manolo Caddie ',' M ',' 4 / 21 / 1908 ',5687456309,357371);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 113,' Fitzgerald Sanpher ',' M ',' 5 / 24 / 2015 ',8934480157,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 114,' Morgan Scrine ',' F ',' 9 / 10 / 1943 ',8861399088,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 115,' Olivier Henrion ',' M ',' 5 / 25 / 1996 ',3771181089,' 74304 CEDEX ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 116,' Milicent Shead ',' F ',' 7 / 27 / 1906 ',4331022609,44710);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 117,' Marchall Pechan ',' M ',' 6 / 16 / 1963 ',9191738512,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 118,' Wes Maylour ',' M ',' 10 / 3 / 1983 ',5533615997,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 119,' Ibby Lawes ',' F ',' 6 / 9 / 1927 ',1845102312,79710);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 120,' Barbara - anne Almak ',' F ',' 9 / 19 / 1936 ',7022061017,' 522 32 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 121,' Josiah Van Bruggen ',' M ',' 6 / 15 / 1907 ',5198884022,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 122,' Gillian Penn ',' F ',' 9 / 7 / 1935 ',6150129802,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 123,' Radcliffe Goater ',' M ',' 8 / 26 / 2009 ',9666863162,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 124,' Rahel Boness ',' F ',' 9 / 25 / 1956 ',7117364726,' 3250 - 104 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 125,' Herold Worster ',' M ',' 4 / 15 / 1981 ',1961408856,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 126,' Taddeusz Jiggle ',' M ',' 6 / 28 / 1957 ',2283546176,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 127,' Antonin Chatres ',' M ',' 11 / 10 / 2000 ',9675795409,646604);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 128,' Ranique Heakins ',' F ',' 2 / 6 / 1988 ',8993006792,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 129,' Godfrey Whimper ',' M ',' 12 / 7 / 2011 ',2287781536,399612);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 130,' Izaak Canet ',' M ',' 2 / 28 / 1909 ',7379632175,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 131,' Estrellita McKeever ',' F ',' 1 / 19 / 1918 ',2534616390,2516);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 132,' Patrizia Tindall ',' F ',' 7 / 25 / 1905 ',4068017484,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 133,' Jodie Cater ',' M ',' 1 / 9 / 1966 ',2157121404,' N37 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 134,' Pren O 'Codihie', 
+'M', 
+'6/19/1976', 
+2874146331, 
+''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+135, 'Frederico Smardon', 'M', '8/6/1955', 
+8650568424, '4610-572'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+136, 'Dotti Giddons', 'F', '10/11/1908', 
+8386415290, 5504
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+137, 'Kean Mickleburgh', 'M', '5/30/1954', 
+6259734611, 4839
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+138, 'Clark Kellen', 'M', '2/14/1963', 
+1838166750, 5041
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+139, 'Tabitha Tuminini', 'F', '2/13/2003', 
+2864485842, 9105
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+140, 'Doretta Niess', 'F', '3/2/1900', 
+0099344513, 8336
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+141, 'Selinda Honacker', 'F', '11/2/1933', 
+7978792773, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+142, 'Orin Duran', 'M', '1/16/1935', 
+0613656571, '33010 CEDEX'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+143, 'Novelia Townley', 'F', '7/23/1998', 
+2150457407, '32-125'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+144, 'Cliff Tolhurst', 'M', '6/5/1903', 
+5137486094, '504-0968'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+145, 'Baily Haining', 'M', '11/12/1901', 
+3937610472, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+146, 'Aurelia Vanderson', 'F', '8/13/1935', 
+2878302176, 682738
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+147, 'Calley Lofting', 'F', '8/25/1948', 
+4318785327, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+148, 'Norah Lethbridge', 'F', '10/18/2014', 
+5394071268, 34201
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+149, 'Carlita Merill', 'F', '2/22/1966', 
+2102209830, 4200
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+150, 'Ettore Eckford', 'M', '7/8/1903', 
+5926785715, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+151, 'Cecil Kuban', 'M', '5/9/1904', 
+4251741536, 5196
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+152, 'Donnamarie Snawdon', 'F', '3/27/1947', 
+3737296278, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+153, 'Kayne Dinjes', 'M', '11/4/1942', 
+1147311234, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+154, 'Merla Nicol', 'F', '9/26/2006', 
+9996934985, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+155, 'Edwin Ulyat', 'M', '11/16/1982', 
+3303231567, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+156, 'Elnar Ettles', 'M', '1/11/1917', 
+6153001378, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+157, 'Alexia Burnand', 'F', '5/5/1957', 
+1259743896, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+158, 'Sarge Swate', 'M', '2/3/1998', 
+5937872169, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+159, 'Mella Rennels', 'F', '6/26/1960', 
+7316152982, 38796
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+160, 'Halsey Readwin', 'M', '2/21/1919', 
+3931068013, 652380
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+161, 'Jere Andreacci', 'M', '1/18/2006', 
+6151013948, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+162, 'Rena Crollman', 'F', '7/1/1966', 
+5999668646, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+163, 'Tim Abramof', 'M', '8/1/1935', 
+8541865592, 70150
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+164, 'Dolli Camp', 'F', '3/7/1997', 
+3795483832, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+165, 'Kris Wholesworth', 'M', '3/6/1972', 
+2135124648, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+166, 
+'Danila O' Kennedy ',' F ',' 7 / 5 / 1938 ',5359088052,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 167,' Alwin Cockshtt ',' M ',' 6 / 20 / 1909 ',7284353236,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 168,' Colas Marmion ',' M ',' 6 / 4 / 1919 ',8918330227,' 63 - 460 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 169,' Carlita Konzel ',' F ',' 12 / 7 / 1971 ',4572665141,' 45650 - 000 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 170,' Casey Compton ',' M ',' 5 / 11 / 1909 ',8656928996,27944);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 171,' Evangeline Mandeville ',' F ',' 9 / 2 / 1921 ',5157561113,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 172,' Tiffy Moggan ',' F ',' 5 / 21 / 1928 ',1222986426,7402);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 173,' Levey Guitton ',' M ',' 8 / 19 / 1951 ',4713900621,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 174,' Solomon Barhem ',' M ',' 2 / 9 / 2003 ',7954561097,4021);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 175,' Gusti Pearn ',' F ',' 11 / 8 / 1949 ',9306430345,' MGR ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 176,' Yoshi Tasker ',' F ',' 1 / 26 / 1903 ',4980603637,' 06 - 121 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 177,' Gustie Purser ',' F ',' 5 / 14 / 1997 ',3081755212,' 745 44 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 178,' Lacie Ruckhard ',' F ',' 4 / 7 / 1921 ',7197158788,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 179,' Bing Have ',' M ',' 12 / 23 / 1949 ',3518532227,' 83404 CEDEX ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 180,' Lindsay McGuiness ',' M ',' 3 / 10 / 1928 ',8763224380,' 32 - 002 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 181,' Fernando McCaffrey ',' M ',' 7 / 14 / 1999 ',2452683841,6342);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 182,' Alison Crofts ',' F ',' 11 / 26 / 2013 ',4071739800,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 183,' Ansell Fretson ',' M ',' 6 / 6 / 2013 ',4811129679,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 184,' Mozes Vasyunin ',' M ',' 12 / 25 / 2008 ',8174761489,46025);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 185,' Shanda Pottinger ',' F ',' 12 / 7 / 2008 ',2684070733,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 186,' Billie Battey ',' F ',' 7 / 7 / 1908 ',9240386599,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 187,' Sandye Reignolds ',' F ',' 5 / 6 / 1984 ',8584929207,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 188,' Frederick De Wolfe ',' M ',' 2 / 21 / 1920 ',2970740893,' 08 - 440 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 189,' Dominique Brussell ',' M ',' 6 / 10 / 2015 ',5723305255,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 190,' Austin Clorley ',' F ',' 9 / 28 / 2002 ',1883041902,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 191,' Valaree Burditt ',' F ',' 3 / 8 / 1978 ',5459636493,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 192,' Hogan Duggan ',' M ',' 12 / 2 / 1998 ',8588472406,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 193,' Cristine Silkstone ',' F ',' 7 / 5 / 1948 ',7450467526,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 194,' Parsifal Hurtic ',' M ',' 7 / 30 / 1947 ',9766545278,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 195,' Miller Station ',' M ',' 12 / 13 / 1921 ',8791940079,184389);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 196,' Terrell Sweetlove ',' M ',' 10 / 28 / 1961 ',4460195798,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 197,' Oriana Ormerod ',' F ',' 9 / 28 / 1908 ',9913671752,' 32 - 865 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 198,' Christy Duckett ',' M ',' 11 / 2 / 1996 ',3025360704,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 199,' Mareah Beaven ',' F ',' 4 / 5 / 1991 ',2201432996,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 200,' Vita Lankester ',' F ',' 5 / 15 / 1900 ',7426996700,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 201,' Mano Flucks ',' M ',' 12 / 29 / 1974 ',4842878258,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 202,' Beatriz Johns ',' F ',' 7 / 8 / 2014 ',0175236496,' 57404 CEDEX ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 203,' Jemmie Schaffel ',' F ',' 2 / 14 / 1995 ',1224844823,' 175 61 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 204,' Ashton Botten ',' M ',' 10 / 5 / 1929 ',1435808371,' 45920 - 000 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 205,' Tyrone Brownbridge ',' M ',' 9 / 21 / 1988 ',8687444737,' 4570 - 198 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 206,' Saloma Mumford ',' F ',' 8 / 7 / 2008 ',7703282340,50320);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 207,' Bobbie Fibbings ',' F ',' 2 / 4 / 1901 ',0711465339,'');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 208,' Ardyth Screeton ',' F ',' 10 / 25 / 1986 ',6578818979,' 183 83 ');INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 209,' Padraic Stennings ',' M ',' 8 / 17 / 1952 ',6082078152,649219);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 210,' Michal Bishell ',' F ',' 3 / 5 / 1902 ',2792440597,93180);INSERT INTO patient(p_ssn,p_name,gender,b_date,contact_no,pin_code) VALUES( 211,' Leda D 'Onise', 
+'F', 
+'7/22/1932', 
+6269122147, 
+''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+212, 'Chalmers Simonetti', 'M', '3/9/1993', 
+8389848813, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+213, 'Aldrich Davidsohn', 'M', '1/3/2019', 
+3186452910, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+214, 'Rosita Sharpe', 'F', '11/27/1978', 
+9514933761, 85754
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+215, 'Adda Rolfe', 'F', '3/11/1966', 
+9008974797, '81506 CEDEX'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+216, 'Dorolice Fetherstan', 'F', '3/13/1992', 
+5791896883, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+217, 'Avigdor Caws', 'M', '9/22/1968', 
+9074544363, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+218, 'Blaire Pashan', 'F', '6/12/1908', 
+0449088014, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+219, 'Cully Dubock', 'M', '7/13/1994', 
+6985964257, 37800
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+220, 'Garwood Keogh', 'M', '6/8/2008', 
+4118775476, '46-100'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+221, 'Ingamar Bockman', 'M', '11/4/1920', 
+8985037811, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+222, 'Astrid Di Boldi', 'F', '11/15/1952', 
+1146128533, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+223, 'Lucille Pettit', 'F', '12/16/1928', 
+3427741443, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+224, 'Tommie Delf', 'M', '2/23/1941', 
+3517078360, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+225, 'Diana Skudder', 'F', '3/12/2017', 
+4267845646, 10217
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+226, 'Guntar Paulazzi', 'M', '11/9/1920', 
+6160074393, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+227, 'Lucky Durkin', 'F', '9/18/1933', 
+5295424324, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+228, 'Hillel Richten', 'M', '3/27/2008', 
+3777935115, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+229, 'Wendie Yankeev', 'F', '3/21/1979', 
+2355154996, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+230, 'Kory Tremathick', 'M', '10/7/1958', 
+7426988511, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+231, 'Adi Durante', 'F', '6/5/2002', 
+0380946815, '65630-000'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+232, 'Seward Dansey', 'M', '6/2/1948', 
+4491859116, 7213
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+233, 'Gal Dwerryhouse', 'M', '4/1/1975', 
+9475422641, 21001
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+234, 'Wynn Greenmon', 'F', '8/21/1913', 
+0773061096, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+235, 'Preston Snowball', 'M', '12/20/1940', 
+0863333095, 309509
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+236, 'Hailee Oene', 'F', '3/6/1983', 
+2667064003, 09220
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+237, 'Deloria Younie', 'F', '10/9/1992', 
+9077203591, 652581
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+238, 'Robby Maha', 'M', '5/2/1959', 
+7849302796, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+239, 'Nichol Gerraty', 'F', '12/24/1977', 
+7538229418, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+240, 'Bart Cuff', 'M', '12/18/2006', 
+0358975298, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+241, 'Wendeline Cuff', 'F', '10/18/1944', 
+4748873086, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+242, 'Shirlene Cappineer', 'F', '9/2/1940', 
+4170485440, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+243, 'Miller Rodson', 'M', '10/2/2007', 
+3325578179, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+244, 'Peirce Hellis', 'M', '11/27/1914', 
+2166642632, 11509
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+245, 'Clarey Allkins', 'F', '6/26/2006', 
+0509877141, '07-202'
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+246, 'Sancho Jarritt', 'M', '2/5/1912', 
+2760930173, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+247, 'Davidde Bailie', 'M', '5/19/1990', 
+7142795158, 96130
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+248, 'Rockwell Boscott', 'M', '2/20/1992', 
+5933179973, ''
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+249, 'Ogden Courvert', 'M', '11/15/1968', 
+4353088408, 623900
+);
+INSERT INTO patient(
+p_ssn, p_name, gender, b_date, contact_no, 
+pin_code
+) 
+VALUES 
+(
+250, 'Sherrie Labell', 'F', '4/16/1973', 
+9844158044, 2624
+);
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2) insert into doctor
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    1, 'Jenny Humbles', '8/13/2011', 5904333315, 
+    '33178 Anniversary Court', '5875 Gateway Junction', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    2, 'Farica Gleaves', '10/27/1964', 
+    1798920395, '2948 Jenifer Circle', 
+    '4725 Lindbergh Court', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    3, 'Jessalyn MacLaig', '1/11/1996', 
+    8818723510, '42 Delaware Crossing', 
+    '6302 Anhalt Point', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    4, 'Colby Vezey', '4/4/1985', 9873345116, 
+    '714 Lakeland Drive', '09 Gateway Junction', 
+    'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    5, 'Atlanta Piddletown', '8/7/1931', 
+    9089137394, '44 Sauthoff Road', 
+    '27 Briar Crest Parkway', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    6, 'Diane-marie Powton', '2/13/1948', 
+    5574294842, '81095 Harper Center', 
+    '6669 Ronald Regan Parkway', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    7, 'Prudence Frift', '5/18/2015', 
+    4883378160, '81 Daystar Pass', '53 Sunfield Court', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    8, 'Jeddy Heald', '12/15/1980', 1380189500, 
+    '76 Butterfield Crossing', '5841 Spenser Place', 
+    'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    9, 'Archibald Norrington', '10/4/2014', 
+    8830292834, '77 Maywood Road', '16238 Superior Plaza', 
+    'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    10, 'Fairleigh Bowra', '9/2/1946', 
+    0492025584, '74262 Cascade Trail', 
+    '57808 New Castle Point', 'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    11, 'Ilsa Ughelli', '1/6/1977', 7036342978, 
+    '0881 Schmedeman Point', '946 Mosinee Court', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    12, 'Kamila Titterrell', '10/23/1948', 
+    5694322932, '7 Dorton Street', '57985 Algoma Junction', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    13, 'Levon Jeffree', '6/3/1980', 7116812830, 
+    '4 Independence Point', '2 Twin Pines Drive', 
+    'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    14, 'Evan Krienke', '3/4/1999', 6479017862, 
+    '38972 Melrose Point', '92 Garrison Alley', 
+    'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    15, 'Rod Carlaw', '8/2/1996', 9954973737, 
+    '035 Oakridge Alley', '58052 Magdeline Street', 
+    'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    16, 'Ingelbert Laidler', '10/24/2013', 
+    5326049325, '268 Briar Crest Crossing', 
+    '91921 Lerdahl Circle', 'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    17, 'Teddi Novill', '4/30/1911', 1652644415, 
+    '21138 Donald Plaza', '566 Clove Hill', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    18, 'Deonne Swallow', '10/23/1914', 
+    4785882441, '510 Kinsman Road', 
+    '914 Blue Bill Park Trail', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    19, 'Aleda Kumar', '8/28/1953', 0867548533, 
+    '38 Bayside Alley', '72435 Bartelt Parkway', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    20, 'Winston Mailes', '2/19/1927', 
+    5109527431, '3589 Portage Place', 
+    '48 5th Circle', 'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    21, 'Erasmus Sirmon', '6/29/1914', 
+    2181289700, '242 Golden Leaf Parkway', 
+    '55 Boyd Point', 'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    22, 'Thorvald Tomasini', '7/1/2014', 
+    3726350152, '1193 Gerald Junction', 
+    '86384 Rigney Center', 'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    23, 'Gabriella Shedd', '5/27/1928', 
+    2375287304, '44 Raven Way', '0440 Holy Cross Center', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    24, 'Janka Dallinder', '9/23/1934', 
+    0578848864, '8393 Dakota Avenue', 
+    '1 Lotheville Way', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    25, 'Bryna von Grollmann', '2/22/1937', 
+    3158312972, '88 Lighthouse Bay Parkway', 
+    '58674 International Terrace', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    26, 'Lishe Cathel', '10/10/1932', 
+    8228616902, '5253 Warbler Pass', 
+    '6 Tennyson Point', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    27, 'Elyssa Scathard', '1/30/1944', 
+    5753742858, '34631 Bluejay Alley', 
+    '01 Mccormick Lane', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    28, 'Mella Tilne', '1/22/1923', 1966307225, 
+    '33 Steensland Crossing', '802 Monterey Lane', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    29, 'Rossie Danielot', '1/11/1959', 
+    8426982271, '0869 Randy Place', 
+    '514 Anniversary Terrace', 'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    30, 'Steffie Tonkin', '2/19/1929', 
+    3770081684, '9 Menomonie Court', 
+    '458 Milwaukee Hill', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    31, 'Kliment Bisterfeld', '10/31/1952', 
+    7907465087, '5435 Ramsey Avenue', 
+    '42 John Wall Hill', 'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    32, 'Donalt Simmell', '10/23/1990', 
+    0858168456, '48921 Blue Bill Park Avenue', 
+    '05 Barnett Pass', 'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    33, 'Cherlyn Bayless', '10/3/1954', 
+    3183698137, '59251 Butterfield Alley', 
+    '376 Eliot Place', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    34, 'Jaye Collingham', '11/26/1956', 
+    0667599282, '9 Amoth Road', '1623 Clarendon Pass', 
+    'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    35, 'Alys Mollene', '9/19/1910', 1333451032, 
+    '38177 Hayes Alley', '5038 Menomonie Trail', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    36, 'Skippy Dallinder', '5/28/1907', 
+    3630582818, '924 Mitchell Parkway', 
+    '50 Lighthouse Bay Center', 'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    37, 'Tabbi Ogger', '5/17/1947', 1197360530, 
+    '53859 Dovetail Circle', '853 Shelley Lane', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    38, 'Tiffani Partington', '1/13/1988', 
+    3804346022, '0 Division Circle', 
+    '43 Clarendon Parkway', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    39, 'Lori Van Arsdalen', '4/24/1950', 
+    7476522966, '78 Lakewood Street', 
+    '24 Brickson Park Drive', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    40, 'Yorgos April', '11/6/1960', 4929924510, 
+    '7763 Steensland Hill', '2933 Truax Circle', 
+    'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    41, 'Devan Menicomb', '10/19/2007', 
+    5922640747, '6 Hagan Avenue', '58077 Maple Road', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    42, 'Letta Pitrollo', '4/25/2010', 
+    6791992484, '30 Havey Place', '260 Dovetail Plaza', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    43, 'Elfreda Meysham', '3/22/1970', 
+    8796769459, '9375 Erie Court', '80378 Oak Valley Place', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    44, 'Emiline Batie', '7/12/1955', 
+    0298671700, '2493 Hansons Place', 
+    '164 Vermont Lane', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    45, 'Timmy Cato', '11/12/1906', 6426717355, 
+    '838 Tomscot Way', '2081 Jana Circle', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    46, 'Carmelina Hritzko', '7/16/1944', 
+    3525295901, '5374 Lerdahl Crossing', 
+    '7 Eliot Hill', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    47, 'Fredia Dunstone', '10/29/1966', 
+    8648535573, '863 Del Mar Avenue', 
+    '30 Emmet Court', 'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    48, 'Reta Duggan', '5/19/1989', 5552601289, 
+    '4 Melrose Circle', '81 Lunder Junction', 
+    'F'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    49, 'Sebastiano Dukelow', '1/1/1904', 
+    4118588366, '16723 Spohn Terrace', 
+    '06 Troy Point', 'M'
+  );
+INSERT INTO doctor(
+  d_ssn, d_name, b_date, contact_no, 
+  address, office_addr, gender
+) 
+VALUES 
+  (
+    50, 'Waly Cheeld', '11/25/1957', 0170891666, 
+    '802 Shelley Drive', '4 Karstens Trail', 
+    'F'
+  );
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+3) insert into bill
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (1, 733010, '7/4/2019', '1/10/2019', 1, 9);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (2, 147382, '3/30/2019', '1/1/2019', 2, 3);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (3, 558814, '11/9/2019', '8/12/2019', 3, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (4, 378948, '5/20/2019', '4/14/2019', 4, 7);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (5, 775847, '4/24/2019', '11/12/2018', 5, 1);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (6, 187127, '2/11/2019', '5/24/2019', 6, 9);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (7, 933286, '11/19/2018', '9/22/2019', 7, 10);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (8, 407358, '12/24/2018', '8/13/2019', 8, 1);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (9, 294871, '3/2/2019', '6/5/2019', 9, 3);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (10, 244793, '6/18/2019', '6/18/2019', 10, 6);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (11, 599642, '4/19/2019', '3/31/2019', 11, 6);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (12, 52400, '11/3/2019', '12/29/2018', 12, 7);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (13, 933547, '1/31/2019', '1/31/2019', 13, 4);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (14, 356426, '9/1/2019', '3/14/2019', 14, 4);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (15, 193020, '11/23/2018', '10/26/2019', 15, 3);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (16, 645854, '12/13/2018', '10/28/2019', 16, 1);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (17, 126199, '6/1/2019', '6/19/2019', 17, 10);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (18, 372051, '12/19/2018', '8/31/2019', 18, 8);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (19, 368509, '2/16/2019', '3/21/2019', 19, 10);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (20, 647922, '6/12/2019', '11/18/2018', 20, 6);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (21, 896899, '3/14/2019', '6/2/2019', 21, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (22, 348524, '1/22/2019', '4/9/2019', 22, 9);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (23, 337237, '1/23/2019', '4/26/2019', 23, 1);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (24, 417630, '2/21/2019', '8/24/2019', 24, 5);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (25, 507820, '3/19/2019', '1/14/2019', 25, 3);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (26, 213714, '9/26/2019', '2/28/2019', 26, 9);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (27, 381298, '3/21/2019', '5/4/2019', 27, 4);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (28, 138200, '8/4/2019', '8/29/2019', 28, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (29, 165863, '8/18/2019', '9/18/2019', 29, 8);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (30, 907471, '2/9/2019', '12/20/2018', 30, 7);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (31, 710599, '4/14/2019', '11/18/2018', 31, 7);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (32, 464677, '5/10/2019', '2/21/2019', 32, 6);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (33, 745870, '8/12/2019', '2/17/2019', 33, 8);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (34, 493439, '4/15/2019', '7/23/2019', 34, 8);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (35, 235398, '1/12/2019', '4/7/2019', 35, 1);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (36, 632385, '6/2/2019', '12/13/2018', 36, 6);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (37, 917616, '12/17/2018', '11/3/2019', 37, 7);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (38, 261328, '8/1/2019', '9/2/2019', 38, 5);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (39, 189477, '8/6/2019', '3/26/2019', 39, 10);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (40, 935347, '3/8/2019', '1/6/2019', 40, 3);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (41, 498040, '5/31/2019', '10/2/2019', 41, 10);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (42, 958222, '3/21/2019', '12/31/2018', 42, 8);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (43, 198655, '5/1/2019', '7/3/2019', 43, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (44, 234359, '3/15/2019', '9/3/2019', 44, 6);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (45, 985393, '11/18/2018', '6/21/2019', 45, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (46, 545724, '5/24/2019', '8/18/2019', 46, 4);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (47, 237395, '4/5/2019', '2/28/2019', 47, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (48, 467044, '9/20/2019', '6/11/2019', 48, 9);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (49, 900474, '7/25/2019', '5/9/2019', 49, 10);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (50, 981508, '7/18/2019', '11/1/2019', 50, 4);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (51, 166841, '6/18/2019', '6/25/2019', 51, 10);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (52, 427110, '4/6/2019', '6/28/2019', 52, 9);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (53, 239804, '7/18/2019', '8/12/2019', 53, 8);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (54, 476886, '5/23/2019', '6/3/2019', 54, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (55, 326645, '1/10/2019', '12/20/2018', 55, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (56, 759664, '10/8/2019', '1/19/2019', 56, 7);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (57, 341164, '3/28/2019', '7/14/2019', 57, 10);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (58, 546862, '9/4/2019', '6/17/2019', 58, 10);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (59, 867207, '11/2/2019', '10/31/2019', 59, 4);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (60, 770693, '11/24/2018', '7/5/2019', 60, 8);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (61, 457772, '2/11/2019', '6/8/2019', 61, 9);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (62, 153160, '6/26/2019', '8/12/2019', 62, 5);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (63, 394373, '12/25/2018', '7/31/2019', 63, 3);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (64, 875345, '3/11/2019', '6/25/2019', 64, 6);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (65, 379264, '6/18/2019', '1/13/2019', 65, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (66, 745781, '12/13/2018', '4/11/2019', 66, 3);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (67, 249255, '6/22/2019', '2/7/2019', 67, 9);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (68, 726758, '3/24/2019', '2/5/2019', 68, 7);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (69, 449659, '3/20/2019', '3/2/2019', 69, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (70, 32128, '1/1/2019', '4/27/2019', 70, 3);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (71, 979725, '8/20/2019', '4/2/2019', 71, 3);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (72, 452184, '10/26/2019', '1/7/2019', 72, 3);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (73, 34476, '10/24/2019', '7/10/2019', 73, 6);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (74, 421949, '7/31/2019', '5/27/2019', 74, 9);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (75, 836155, '10/21/2019', '11/3/2019', 75, 5);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (76, 428142, '4/15/2019', '8/22/2019', 76, 1);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (77, 39245, '10/21/2019', '10/20/2019', 77, 1);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (78, 313204, '1/20/2019', '9/11/2019', 78, 5);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (79, 422364, '9/25/2019', '7/6/2019', 79, 10);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (80, 70392, '7/3/2019', '6/2/2019', 80, 4);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (81, 174341, '2/24/2019', '5/18/2019', 81, 5);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (82, 172505, '7/2/2019', '4/1/2019', 82, 3);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (83, 18611, '1/8/2019', '5/25/2019', 83, 1);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (84, 853936, '4/22/2019', '4/26/2019', 84, 6);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (85, 709204, '11/16/2018', '4/6/2019', 85, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (86, 510297, '1/7/2019', '10/27/2019', 86, 4);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (87, 34144, '7/18/2019', '3/6/2019', 87, 9);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (88, 885843, '10/6/2019', '1/24/2019', 88, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (89, 402775, '4/6/2019', '8/30/2019', 89, 10);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (90, 580852, '10/22/2019', '7/2/2019', 90, 9);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (91, 80940, '4/12/2019', '4/18/2019', 91, 7);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (92, 343287, '8/27/2019', '9/2/2019', 92, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (93, 294004, '12/7/2018', '6/1/2019', 93, 3);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (94, 745990, '1/9/2019', '9/6/2019', 94, 5);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (95, 745678, '3/14/2019', '8/12/2019', 95, 3);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (96, 114151, '2/18/2019', '7/11/2019', 96, 10);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (97, 168806, '2/13/2019', '8/6/2019', 97, 4);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (98, 553086, '7/19/2019', '12/29/2018', 98, 10);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (99, 93719, '5/24/2019', '3/4/2019', 99, 2);
+insert into bill (bill_no, amount, bill_date, due_date, visit_id, ins_id) values (100, 327793, '5/19/2019', '9/8/2019', 100, 8);
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+4) city insert
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (791659, 'Dijon');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (133238, 'Retiro');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (911431, 'Castelseprio');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (612375, 'Filot');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (436419, 'Houtvenne');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (441211, 'Calvera');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (977124, 'Goulburn');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (882306, 'Waitara');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (369678, 'Wanzele');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (263982, 'Raurkela');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (832174, 'Greater Sudbury');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (775562, 'Habra');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (296992, 'Bolinne');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (466439, 'Cisterna di Latina');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (207482, 'Carcassonne');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (304757, 'Gouda');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (912296, 'Katowice');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (582308, 'Gretna');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (217075, 'Rezé');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (363790, 'Kessel');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (240776, 'Meer');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (630639, 'Turnhout');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (417945, 'Namur');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (151415, 'Menai Bridge');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (514390, 'Tübingen');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (892341, 'Fermont');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (364687, 'Sittard');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (625944, 'Melipilla');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (909613, 'Frankfort');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (538974, 'Rance');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (
+    492424, 'Saint-Maur-des-Fossés'
+  );
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (792385, 'Abbateggio');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (592975, 'Southend');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (
+    996683, 'Ham-sur-Heure-Nalinnes'
+  );
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (910153, 'Garbsen');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (917587, 'Frascati');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (896433, 'Beverley');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (828482, 'Murcia');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (984521, 'Ripalta Guerina');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (499783, 'Ekeren');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (631213, 'San José de Maipo');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (187609, 'Potsdam');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (444414, 'Beveren');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (442475, 'Hoogstraten');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (527383, 'Neudörfl');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (461541, 'Taunusstein');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (403382, 'Castel Colonna');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (
+    466912, 'Mosciano Sant' Angelo ');INSERT INTO city(pin_code,city_name) VALUES( 267172,' Río Hurtado ');INSERT INTO city(pin_code,city_name) VALUES( 936819,' Poulseur ');INSERT INTO city(pin_code,city_name) VALUES( 747220,' Raipur ');INSERT INTO city(pin_code,city_name) VALUES( 862512,' Yorkton ');INSERT INTO city(pin_code,city_name) VALUES( 806765,' Lennik ');INSERT INTO city(pin_code,city_name) VALUES( 175910,' Tione di Trento ');INSERT INTO city(pin_code,city_name) VALUES( 215517,' Valmacca ');INSERT INTO city(pin_code,city_name) VALUES( 442515,' Baie - d 'Urf�'
+  );
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (175589, 'Rodengo/Rodeneck');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (151305, 'Södertälje');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (563397, 'Sluis');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (556769, 'Bhusawal');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (649640, 'Wevelgem');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (453871, 'Arnesano');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (670052, 'Meridian');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (939973, 'Vadodara');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (862189, 'Lloydminster');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (551472, 'Grafton');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (976857, 'Sart-Dames-Avelines');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (412378, 'Jonqui�re');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (420262, 'Roksem');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (373078, 'Salt Lake City');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (781581, 'Regina');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (360213, 'Cognelee');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (266891, 'Suruç');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (779687, 'Floriffoux');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (663758, 'Helena');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (356672, 'Tezze sul Brenta');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (715651, 'Sart-Eustache');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (
+    293951, 'Sunshine Coast Regional District'
+  );
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (273615, 'Ollagüe');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (211197, 'Ancaster Town');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (222638, 'Burntisland');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (649555, 'Lamont');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (616926, 'El Carmen');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (371473, 'Moncton');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (337752, 'Otranto');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (423817, 'Martello/Martell');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (535149, 'Frankfurt');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (504350, 'Sclayn');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (472243, 'Redwater');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (273920, 'Ludwigshafen');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (675655, 'Bellante');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (223038, 'Multan');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (148144, 'Langenburg');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (822388, 'Fontenoille');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (943607, 'Marilles');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (653751, 'Pettineo');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (874609, 'Windsor');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (152487, 'Schleswig');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (564626, 'Laives/Leifers');
+INSERT INTO city(pin_code, city_name) 
+VALUES 
+  (792570, 'Mülheim');
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+5) insuarance company insert
+
+insert into insurance_company (ins_id, Name, Contact_no, pin_code) values (1, 'Jast, Rippin and Doyle', 7281866473, 428505);
+insert into insurance_company (ins_id, Name, Contact_no, pin_code) values (2, 'Daugherty, Hauck and Dibbert', 8926318597, 798835);
+insert into insurance_company (ins_id, Name, Contact_no, pin_code) values (3, 'Friesen-Dare', 6726264592, 810682);
+insert into insurance_company (ins_id, Name, Contact_no, pin_code) values (4, 'Hettinger, Borer and Walter', 8595676178, 581497);
+insert into insurance_company (ins_id, Name, Contact_no, pin_code) values (5, 'Walter, Wuckert and Maggio', 6936024365, 563595);
+insert into insurance_company (ins_id, Name, Contact_no, pin_code) values (6, 'Hegmann LLC', 8968370641, 650825);
+insert into insurance_company (ins_id, Name, Contact_no, pin_code) values (7, 'Gerlach, Nader and Gleichner', 8899723983, 894791);
+insert into insurance_company (ins_id, Name, Contact_no, pin_code) values (8, 'Littel-Kuvalis', 6760866980, 725205);
+insert into insurance_company (ins_id, Name, Contact_no, pin_code) values (9, 'Luettgen, Bruen and Braun', 7130620046, 101075);
+insert into insurance_company (ins_id, Name, Contact_no, pin_code) values (10, 'Nicolas-O''Kon', 8938388510, 213864);
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+6) medicine insert
+
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (1, 'ANTIBACTERIAL FOAMING', 229, '10', '1/29/2021', 558);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (2, 'Molds - Mold Mix 10', 451, '20', '8/19/2021', 846);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (3, 'Motion Sickness', 417, '10', '8/18/2020', 151);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (4, 'SAPHRIS', 607, '20', '3/7/2020', 695);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (5, 'Amoxicillin and Clavulanate Potassium', 103, '20', '6/10/2020', 750);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (6, 'Salonpas pain relieving GEL-PATCH HOT', 871, '20', '9/15/2021', 744);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (7, 'One-Step Wart Remover Clear', 265, '20', '5/19/2022', 131);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (8, 'Diphenhydramine Hydrochloride', 722, '20', '9/2/2020', 568);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (9, 'DIORSKIN NUDE TAN BB CREME HEALTHY GLOW SKIN-PERFECTING BEAUTY BALM SUNSCREEN BROAD SPECTRUM SPF15 Tint 2', 317, '20', '7/23/2021', 188);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (10, 'IBUPROFEN', 62, '10', '1/8/2021', 128);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (11, 'Clonazepam', 173, '20', '1/15/2021', 110);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (12, 'Harmon Face Values Medicated', 639, '10', '7/26/2022', 929);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (13, 'Tuna Fish', 562, '20', '3/22/2022', 212);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (14, 'Benzonatate', 529, '20', '6/27/2020', 677);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (15, 'piperacillin and tazobactam', 426, '20', '8/4/2021', 107);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (16, 'Glyburide', 462, '10', '8/21/2021', 877);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (17, 'Enalapril Maleate', 639, '10', '8/15/2021', 216);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (18, 'paroxetine', 248, '20', '6/30/2021', 118);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (19, 'Risperidone', 203, '10', '2/11/2022', 853);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (20, 'U-Cort', 43, '10', '5/15/2021', 562);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (21, 'Eco-Clean Elite', 830, '20', '12/31/2021', 5);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (22, 'Levofloxacin', 404, '20', '5/16/2021', 945);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (23, 'Leader Ibuprofen', 146, '20', '12/15/2020', 328);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (24, 'cold relief', 34, '10', '3/26/2021', 722);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (25, 'Zodryl AC 40', 592, '10', '4/26/2021', 785);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (26, 'English Walnut', 307, '20', '11/9/2021', 988);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (27, 'emuaidMAX', 237, '10', '3/16/2022', 704);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (28, 'Valium', 152, '10', '12/10/2020', 455);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (29, 'Clear', 28, '20', '3/1/2022', 566);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (30, 'OXYGEN', 760, '10', '5/23/2020', 888);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (31, 'Food - Plant Source, Pea, Green or English Pisum sativum', 59, '20', '1/31/2022', 132);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (32, 'Carvedilol', 673, '10', '1/22/2021', 828);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (33, 'Sumatriptan Succinate', 384, '20', '7/13/2020', 566);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (34, 'AHAVA AGE PERFECTING', 811, '10', '12/15/2022', 308);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (35, 'Levofloxacin', 654, '20', '5/2/2022', 729);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (36, 'Simvastatin', 884, '20', '3/16/2022', 515);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (37, 'Sambucus Larix', 339, '20', '2/19/2020', 699);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (38, 'Leader Alertness Aid', 186, '20', '2/10/2022', 368);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (39, 'MDSolarSciences', 618, '10', '10/13/2021', 362);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (40, 'Eve Lom Radiance Lift Foundation SPF 15', 314, '10', '5/19/2021', 498);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (41, 'Pseudoephedrine Hydrochloride', 427, '20', '8/18/2022', 321);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (42, 'RUE 21 Fallen Vixen Anti Bacterial Hand Sanitizer', 93, '20', '5/17/2020', 940);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (43, 'Citrus Breeze Antibacterial Foaming Hand Wash', 345, '10', '6/1/2022', 734);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (44, 'Dr. Sheffield Fluoride Anticavity', 854, '20', '9/23/2021', 710);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (45, 'Salacyn', 126, '10', '11/28/2021', 774);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (46, 'Nizoral', 611, '10', '8/15/2021', 894);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (47, 'NITROGEN', 784, '10', '7/20/2020', 407);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (48, 'DulcoEase Pink', 612, '20', '6/1/2021', 649);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (49, 'Fluoxetine', 104, '20', '12/23/2021', 699);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (50, 'Sporting Edge', 928, '10', '6/18/2022', 521);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (51, 'oxygen', 666, '20', '2/25/2021', 186);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (52, 'Aveeno Active Naturals Skin Relief Calming', 629, '10', '1/29/2020', 999);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (53, 'Risperidone', 5, '10', '7/6/2020', 794);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (54, 'Free Radical', 636, '10', '1/20/2022', 77);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (55, 'TIZANIDINE HYDROCHLORIDE', 929, '20', '11/5/2021', 652);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (56, 'Rhizopus oryzae', 18, '10', '8/9/2020', 451);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (57, 'Tears lubricant', 73, '10', '2/24/2020', 898);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (58, 'Atovaquone and Proguanil Hydrochloride', 368, '20', '6/22/2021', 357);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (59, 'White Poplar', 995, '10', '3/12/2020', 612);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (60, 'Saline Nasal', 372, '20', '3/26/2020', 195);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (61, 'Oxistat', 792, '20', '4/18/2022', 741);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (62, 'Leader Aspirin', 344, '20', '6/11/2021', 487);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (63, 'Famciclovir', 999, '20', '7/25/2022', 119);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (64, 'Topcare hemorrhoidal', 545, '10', '8/2/2022', 778);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (65, 'Ibutab', 7, '10', '10/21/2021', 800);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (66, 'Loxapine', 486, '20', '4/12/2022', 465);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (67, 'Clear Eyes Complete 7 Sympton Relief', 168, '10', '7/13/2020', 35);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (68, 'Naproxen Pain Relief', 382, '10', '11/29/2021', 352);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (69, 'Chest Rub', 731, '10', '4/27/2021', 478);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (70, 'TRAMADOL HYDROCHLORIDE', 618, '10', '12/27/2021', 285);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (71, 'Metoclopramide Hydrochloride', 954, '20', '11/8/2020', 537);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (72, 'Naproxen', 105, '20', '6/16/2020', 687);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (73, 'Dove', 427, '10', '9/4/2020', 464);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (74, 'Hydralazine Hydrochloride', 146, '20', '7/23/2021', 306);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (75, 'Cladosporium herbarum', 102, '10', '6/4/2021', 887);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (76, 'LIFT LUMIERE', 228, '10', '10/12/2020', 806);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (77, 'Bromday', 613, '20', '10/9/2021', 512);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (78, 'Pleo Alb', 508, '20', '7/23/2021', 259);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (79, 'Pioglitazone Hydrochloride and Metformin Hydrochloride', 184, '10', '5/26/2022', 657);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (80, 'Natural Fiber', 213, '10', '4/28/2022', 128);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (81, 'Rescue Pastille Lemon', 157, '10', '4/11/2022', 573);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (82, 'NITROGEN', 883, '10', '9/5/2020', 271);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (83, 'RAYOS', 150, '10', '10/10/2021', 923);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (84, 'COMMON BIG SAGEBRUSH POLLEN', 110, '20', '12/15/2022', 842);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (85, 'Fresh Sugar Ruby Tinted Lip Treatment Sunscreen SPF 15', 641, '10', '7/4/2020', 323);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (86, 'Naproxen', 653, '10', '7/18/2022', 601);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (87, 'DEMEROL', 395, '20', '1/7/2021', 592);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (88, 'VERAPAMIL HYDROCHLORIDE', 143, '10', '10/21/2022', 829);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (89, 'Diazepam', 555, '10', '10/14/2022', 269);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (90, 'XtraCare Instant Hand Sanitizer', 209, '20', '5/24/2020', 236);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (91, 'Metoprolol Succinate', 337, '20', '1/2/2021', 925);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (92, 'Lamotrigine', 91, '10', '3/17/2021', 3);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (93, 'Personal Care', 372, '20', '7/23/2020', 960);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (94, 'Grama Grass', 216, '10', '12/10/2022', 753);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (95, 'Pilocarpine Hydrochloride', 140, '10', '2/7/2022', 607);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (96, 'Dark Foundation SPF 15', 624, '20', '3/17/2021', 934);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (97, 'Lisinopril', 486, '20', '9/26/2022', 768);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (98, 'topiramate', 224, '10', '3/14/2021', 207);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (99, 'Acid Reducer', 679, '20', '2/27/2021', 288);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (100, 'AGAVE CACTUS SERUM', 365, '20', '4/17/2022', 518);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (101, 'Stemphylium sarciniforms', 984, '10', '6/8/2020', 810);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (102, 'Levetiracetam', 851, '10', '5/12/2020', 310);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (103, 'Carvedilol', 235, '20', '2/23/2021', 801);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (104, 'Clonidine Hydrochloride', 915, '10', '12/17/2020', 567);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (105, 'Acyclovir', 949, '10', '3/21/2020', 744);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (106, 'BABOR CLEANSING HY-OL', 909, '10', '12/28/2022', 308);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (107, 'Coppertone wet n clear', 218, '20', '5/7/2021', 363);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (108, 'Chlordiazepoxide Hydrochloride/Clidinium Bromide', 495, '10', '11/28/2020', 462);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (109, 'Oxaliplatin', 725, '10', '4/4/2022', 905);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (110, 'Prostoforce', 988, '20', '4/29/2021', 226);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (111, 'Fentanyl Citrate', 901, '20', '8/25/2021', 1);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (112, 'Prednisone', 508, '10', '10/31/2020', 846);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (113, 'flormar PERFECT COVERAGE FOUNDATION SUNSCREEN BROAD SPECTRUM SPF 15 105 Porcelain Ivory', 187, '10', '11/22/2020', 315);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (114, 'Doxycycline', 984, '10', '11/11/2020', 442);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (115, 'Ibuprofen', 836, '20', '7/7/2021', 281);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (116, 'Arnica Scorodite', 144, '20', '5/30/2021', 163);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (117, 'Date', 50, '10', '2/24/2022', 852);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (118, 'galantamine hydrobromide', 648, '20', '1/2/2021', 946);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (119, 'Golden Deep Foundation SPF 15', 841, '10', '9/27/2021', 472);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (120, 'Hydromorphone Hydrochloride', 923, '10', '12/23/2020', 524);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (121, 'ETHYL ALCOHOL', 822, '10', '8/26/2021', 872);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (122, 'Naproxen Sodium', 690, '20', '4/25/2021', 188);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (123, 'Suphedrine', 825, '20', '2/7/2021', 84);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (124, 'Mango Blossom', 832, '20', '8/10/2021', 256);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (125, 'Neutrogena SkinClearing', 776, '20', '9/12/2022', 922);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (126, 'Excedrin', 147, '20', '8/27/2021', 109);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (127, 'equate arthritis pain', 925, '20', '7/5/2020', 918);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (128, 'Antimicrobial', 121, '10', '9/25/2021', 900);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (129, 'Bipolaris sorokiniana', 725, '20', '3/21/2020', 413);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (130, 'Venlafaxine', 437, '20', '2/2/2022', 245);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (131, 'Bactimicina Allergy', 143, '20', '5/10/2021', 785);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (132, 'Famotidine', 561, '10', '10/7/2020', 550);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (133, 'Close Up Anticavity Toothpaste', 789, '10', '1/26/2021', 687);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (134, 'Humco Mineral Oil Heavy', 369, '10', '6/26/2022', 792);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (135, 'Hydrochlorothiazide', 479, '10', '9/1/2022', 804);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (136, 'Icy Hot Power Gel', 901, '20', '2/27/2020', 402);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (137, 'Topcare Nicotine', 506, '20', '2/17/2021', 190);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (138, 'Australian Dream Pain Relieving Arthritis', 168, '20', '9/15/2021', 937);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (139, 'Epi-Clenz Instant Hand Antiseptic', 382, '10', '11/19/2021', 513);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (140, 'Privet', 303, '10', '6/17/2022', 327);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (141, 'Oxygen', 654, '10', '11/6/2021', 258);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (142, 'Duloxetine', 181, '20', '6/22/2021', 956);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (143, 'Slim Remedy No. 15', 558, '20', '12/16/2021', 73);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (144, 'Ciprofloxacin', 41, '20', '11/1/2022', 385);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (145, 'Dr Teals', 729, '10', '6/4/2022', 301);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (146, 'IASO SMART POWDER PACT 23', 542, '10', '3/23/2022', 216);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (147, 'PULSATILLA NIG', 604, '20', '5/30/2022', 214);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (148, 'Colds Earache', 512, '20', '3/2/2022', 598);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (149, 'ENALAPRIL MALEATE', 239, '10', '4/17/2021', 611);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (150, 'Zaleplon', 255, '20', '3/13/2020', 651);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (151, 'Health Mart Pharmacy Hydrocortisone', 991, '10', '9/18/2022', 801);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (152, 'Lidocaine Hydrochloride and Epinephrine', 882, '20', '3/30/2021', 435);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (153, 'Signifor', 174, '20', '9/4/2022', 380);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (154, 'Codar', 595, '10', '5/31/2020', 344);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (155, 'Metoclopramide', 84, '10', '5/4/2020', 528);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (156, 'Dove Men plus Care', 577, '10', '10/25/2022', 432);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (157, 'Yellow Dock', 328, '10', '1/26/2022', 214);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (158, 'SIMVASTATIN', 650, '20', '3/7/2021', 209);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (159, 'Prevage Anti Aging Moisture Broad Spectrum Sunscreen SPF 30', 757, '20', '6/23/2022', 996);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (160, 'XtraCare Skin Relief Oatmeal Daily Moisturizing', 275, '10', '1/4/2022', 335);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (161, 'careone severe sinus congestion and pain', 844, '10', '8/28/2020', 80);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (162, 'Actos', 238, '10', '5/30/2022', 682);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (163, 'levalbuterol hydrochloride', 195, '10', '11/3/2020', 721);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (164, 'LenzaPatch', 623, '20', '12/25/2022', 290);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (165, 'BABY ACNE', 999, '20', '3/25/2022', 751);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (166, 'Hand Sanitizer', 396, '10', '12/9/2021', 496);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (167, 'Pioglitazone', 427, '20', '2/19/2021', 949);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (168, 'Throat Care', 445, '10', '9/1/2022', 481);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (169, 'Acne Wipes', 177, '10', '7/9/2022', 829);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (170, 'No7 Protect and Perfect Hand Cream Sunscreen SPF 15', 963, '10', '6/9/2021', 701);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (171, 'CLONIDINE HYDROCHLORIDE', 360, '10', '2/13/2021', 940);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (172, 'Hydrocortisone', 993, '20', '10/28/2022', 523);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (173, 'MICRONOR', 336, '20', '7/22/2020', 663);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (174, 'Enalapril Maleate and Hydrochlorothiazide', 231, '20', '3/23/2022', 353);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (175, 'Marcaine', 161, '20', '6/15/2020', 544);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (176, 'Anti-bacterial Hand', 457, '20', '7/21/2020', 258);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (177, 'Tussin Cough and Chest Congestion DM', 892, '20', '8/18/2022', 260);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (178, 'Lupron Depot', 90, '10', '7/19/2021', 816);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (179, 'Carisoprodol', 480, '10', '5/23/2020', 832);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (180, 'Quercetin', 447, '10', '6/22/2020', 714);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (181, 'Microgestin', 132, '10', '11/28/2022', 657);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (182, 'Tobrex', 100, '10', '5/26/2021', 924);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (183, 'Mary Kay CC Cream Sunscreen Broad Spectrum SPF 15 Deep', 73, '20', '11/6/2020', 444);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (184, 'Bromfed', 757, '10', '1/15/2022', 202);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (185, 'BioTPres', 608, '10', '9/14/2022', 142);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (186, 'Petroleum Skin Protectant', 147, '20', '11/22/2022', 475);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (187, 'Pulsatilla Compositum', 977, '10', '9/21/2021', 783);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (188, 'Metoclopramide', 246, '10', '7/27/2020', 412);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (189, 'Leader Ibuprofen', 710, '20', '7/25/2020', 548);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (190, 'CC Cream Light', 262, '20', '12/18/2020', 611);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (191, 'Food - Animal Products and Poultry Products, Beef Bovine spp.', 107, '20', '12/18/2022', 336);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (192, 'Fentanyl', 437, '10', '8/16/2022', 7);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (193, 'OXYCODONE HYDROCHLORIDE', 828, '10', '1/25/2020', 76);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (194, 'Amitriptyline Hydrochloride', 377, '10', '7/20/2022', 171);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (195, 'PREDNISONE', 954, '20', '11/5/2022', 825);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (196, 'Sodium Fluoride', 262, '20', '7/9/2021', 612);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (197, 'Oxycodone Hydrochloride', 67, '10', '5/17/2022', 622);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (198, 'LBEL NATURAL FINISH MOISTURIZING FOUNDATION SPF 25', 36, '20', '6/7/2020', 5);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (199, 'good neighbor pharmacy Pain and Fever', 442, '10', '10/1/2022', 895);
+insert into medicines (MInventory_id, M_name, Price, quantity, Exp_Date, pres_id) values (200, 'Pulmo Bryonia', 711, '10', '9/21/2020', 409);
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+
+7) manufacturer insert script
+
+insert into manufacturer (M_id, M_name) values (1, 'GlaxoSmithKline Consumer Healthcare LP');
+insert into manufacturer (M_id, M_name) values (2, 'Meditrend, Inc. DBA Progena Professional Formulations');
+insert into manufacturer (M_id, M_name) values (3, 'GlaxoSmithKline LLC');
+insert into manufacturer (M_id, M_name) values (4, 'SOHM Inc.');
+insert into manufacturer (M_id, M_name) values (5, 'Natural Health Supply');
+insert into manufacturer (M_id, M_name) values (6, 'Best Choice (Valu Merchandisers Company)');
+insert into manufacturer (M_id, M_name) values (7, 'AnazaoHealth Corporation');
+insert into manufacturer (M_id, M_name) values (8, 'Western Family Foods Inc');
+insert into manufacturer (M_id, M_name) values (9, 'Parfums Givenchy S.A.');
+insert into manufacturer (M_id, M_name) values (10, 'Cypress Pharmaceutical, Inc.');
+insert into manufacturer (M_id, M_name) values (11, 'Carlsbad Technology, Inc.');
+insert into manufacturer (M_id, M_name) values (12, 'Uriel Pharmacy Inc.');
+insert into manufacturer (M_id, M_name) values (13, 'Supervalu Inc');
+insert into manufacturer (M_id, M_name) values (14, 'BCM Cosmetique SAS');
+insert into manufacturer (M_id, M_name) values (15, 'Kroger Company');
+insert into manufacturer (M_id, M_name) values (16, 'Daiichi Sankyo, Inc.');
+insert into manufacturer (M_id, M_name) values (17, 'PureTek Corporation');
+insert into manufacturer (M_id, M_name) values (18, 'Coloplast Manufacturing US, LLC');
+insert into manufacturer (M_id, M_name) values (19, 'Coty US LLC');
+insert into manufacturer (M_id, M_name) values (20, 'Target Corporation');
+insert into manufacturer (M_id, M_name) values (21, 'Elizabeth Arden, Inc');
+insert into manufacturer (M_id, M_name) values (22, 'NATURE REPUBLIC CO., LTD.');
+insert into manufacturer (M_id, M_name) values (23, 'The Procter & Gamble Manufacturing Company');
+insert into manufacturer (M_id, M_name) values (24, 'Mycone Dental Supply Co., Inc DBA Keystone Industries and Deepak Products Inc.');
+insert into manufacturer (M_id, M_name) values (25, 'Sandoz Inc');
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%555
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+8) visit insert script
+
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (1, '5/24/2018', 30, 'abcd', 1);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (2, '12/27/2018', 45, 'abcd', 2);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (3, '5/25/2018', 38, 'hijk', 3);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (4, '4/11/2019', 35, 'abcd', 4);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (5, '5/11/2018', 8, 'efgh', 5);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (6, '2/26/2019', 9, 'abcd', 6);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (7, '1/20/2019', 24, 'hijk', 7);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (8, '6/1/2018', 18, 'efgh', 8);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (9, '7/2/2018', 54, 'hijk', 9);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (10, '6/9/2019', 67, 'abcd', 10);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (11, '8/2/2019', 37, 'hijk', 11);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (12, '8/26/2019', 48, 'efgh', 12);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (13, '11/20/2018', 57, 'abcd', 13);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (14, '9/15/2019', 36, 'abcd', 14);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (15, '11/1/2019', 10, 'efgh', 15);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (16, '1/29/2019', 25, 'efgh', 16);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (17, '6/24/2019', 34, 'abcd', 17);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (18, '4/1/2018', 6, 'hijk', 18);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (19, '5/8/2019', 65, 'abcd', 19);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (20, '4/21/2018', 47, 'hijk', 20);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (21, '2/25/2018', 56, 'abcd', 21);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (22, '6/8/2019', 25, 'efgh', 22);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (23, '6/22/2018', 65, 'hijk', 23);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (24, '1/5/2018', 10, 'abcd', 24);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (25, '5/27/2019', 20, 'efgh', 25);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (26, '3/5/2019', 27, 'efgh', 26);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (27, '8/11/2018', 11, 'abcd', 27);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (28, '10/25/2018', 50, 'abcd', 28);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (29, '8/20/2019', 31, 'abcd', 29);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (30, '7/11/2018', 42, 'abcd', 30);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (31, '3/3/2019', 58, 'efgh', 31);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (32, '3/22/2019', 36, 'efgh', 32);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (33, '7/31/2018', 65, 'efgh', 33);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (34, '6/15/2018', 29, 'efgh', 34);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (35, '12/19/2018', 22, 'abcd', 35);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (36, '7/30/2018', 46, 'abcd', 36);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (37, '1/4/2019', 34, 'abcd', 37);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (38, '1/15/2019', 54, 'hijk', 38);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (39, '1/28/2019', 24, 'efgh', 39);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (40, '9/26/2019', 46, 'efgh', 40);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (41, '6/21/2018', 58, 'efgh', 41);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (42, '11/1/2019', 43, 'hijk', 42);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (43, '7/3/2018', 46, 'efgh', 43);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (44, '11/14/2019', 10, 'abcd', 44);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (45, '2/23/2018', 69, 'hijk', 45);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (46, '6/16/2018', 23, 'hijk', 46);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (47, '4/1/2018', 63, 'hijk', 47);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (48, '2/12/2018', 23, 'efgh', 48);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (49, '5/23/2018', 51, 'hijk', 49);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (50, '11/6/2018', 32, 'hijk', 50);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (51, '2/17/2019', 5, 'efgh', 51);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (52, '11/1/2018', 41, 'hijk', 52);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (53, '10/17/2019', 57, 'hijk', 53);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (54, '6/7/2019', 42, 'abcd', 54);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (55, '3/30/2019', 15, 'abcd', 55);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (56, '8/27/2019', 20, 'hijk', 56);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (57, '9/2/2018', 33, 'efgh', 57);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (58, '2/9/2019', 57, 'hijk', 58);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (59, '1/21/2019', 11, 'efgh', 59);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (60, '3/2/2019', 68, 'abcd', 60);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (61, '10/8/2019', 45, 'hijk', 61);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (62, '9/17/2018', 54, 'hijk', 62);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (63, '5/1/2018', 17, 'abcd', 63);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (64, '6/9/2018', 56, 'efgh', 64);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (65, '3/16/2019', 30, 'efgh', 65);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (66, '7/31/2019', 47, 'hijk', 66);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (67, '8/3/2018', 51, 'hijk', 67);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (68, '3/22/2019', 13, 'hijk', 68);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (69, '6/22/2018', 68, 'abcd', 69);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (70, '4/24/2018', 35, 'efgh', 70);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (71, '8/17/2018', 61, 'hijk', 71);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (72, '4/27/2018', 47, 'efgh', 72);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (73, '10/20/2018', 32, 'abcd', 73);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (74, '4/27/2019', 23, 'hijk', 74);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (75, '4/19/2018', 1, 'hijk', 75);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (76, '2/14/2019', 62, 'abcd', 76);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (77, '5/30/2018', 4, 'efgh', 77);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (78, '11/7/2018', 40, 'efgh', 78);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (79, '1/31/2019', 32, 'efgh', 79);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (80, '3/28/2018', 5, 'abcd', 80);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (81, '11/15/2019', 10, 'hijk', 81);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (82, '5/30/2018', 49, 'abcd', 82);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (83, '4/11/2018', 14, 'hijk', 83);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (84, '10/13/2018', 21, 'efgh', 84);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (85, '3/9/2019', 7, 'efgh', 85);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (86, '9/30/2018', 26, 'hijk', 86);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (87, '1/24/2018', 11, 'abcd', 87);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (88, '12/6/2018', 23, 'hijk', 88);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (89, '9/26/2018', 2, 'hijk', 89);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (90, '1/7/2018', 22, 'efgh', 90);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (91, '4/15/2019', 24, 'abcd', 91);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (92, '2/9/2019', 16, 'abcd', 92);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (93, '4/10/2019', 47, 'abcd', 93);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (94, '1/13/2018', 39, 'efgh', 94);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (95, '9/4/2018', 2, 'hijk', 95);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (96, '1/9/2018', 46, 'abcd', 96);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (97, '6/15/2019', 29, 'abcd', 97);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (98, '2/14/2019', 36, 'efgh', 98);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (99, '5/16/2019', 5, 'abcd', 99);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (100, '11/11/2019', 12, 'efgh', 100);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (101, '11/22/2018', 43, 'hijk', 101);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (102, '1/5/2019', 47, 'efgh', 102);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (103, '8/1/2019', 20, 'efgh', 103);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (104, '3/9/2019', 31, 'hijk', 104);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (105, '9/7/2018', 25, 'hijk', 105);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (106, '5/27/2018', 11, 'efgh', 106);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (107, '4/27/2018', 67, 'efgh', 107);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (108, '8/29/2018', 35, 'efgh', 108);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (109, '9/15/2019', 45, 'hijk', 109);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (110, '8/12/2018', 42, 'hijk', 110);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (111, '2/27/2019', 41, 'efgh', 111);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (112, '5/10/2019', 25, 'hijk', 112);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (113, '9/9/2019', 67, 'efgh', 113);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (114, '8/17/2019', 13, 'abcd', 114);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (115, '2/21/2018', 26, 'hijk', 115);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (116, '10/8/2018', 10, 'hijk', 116);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (117, '2/14/2018', 40, 'hijk', 117);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (118, '5/3/2019', 58, 'abcd', 118);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (119, '7/18/2019', 43, 'hijk', 119);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (120, '6/18/2019', 67, 'abcd', 120);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (121, '8/8/2019', 43, 'abcd', 121);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (122, '8/21/2018', 63, 'efgh', 122);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (123, '3/23/2018', 6, 'efgh', 123);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (124, '10/11/2018', 35, 'abcd', 124);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (125, '4/18/2018', 56, 'efgh', 125);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (126, '2/14/2019', 9, 'abcd', 126);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (127, '11/28/2018', 27, 'hijk', 127);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (128, '1/28/2018', 29, 'efgh', 128);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (129, '2/13/2018', 29, 'hijk', 129);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (130, '11/2/2018', 38, 'abcd', 130);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (131, '9/28/2019', 35, 'efgh', 131);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (132, '3/25/2018', 29, 'efgh', 132);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (133, '8/3/2018', 28, 'hijk', 133);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (134, '9/26/2018', 34, 'hijk', 134);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (135, '7/26/2019', 9, 'abcd', 135);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (136, '1/19/2018', 9, 'abcd', 136);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (137, '12/28/2018', 70, 'hijk', 137);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (138, '7/31/2019', 42, 'abcd', 138);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (139, '7/11/2018', 31, 'efgh', 139);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (140, '7/4/2018', 64, 'efgh', 140);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (141, '10/3/2019', 11, 'efgh', 141);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (142, '2/5/2019', 1, 'efgh', 142);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (143, '9/8/2019', 32, 'hijk', 143);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (144, '2/7/2019', 3, 'abcd', 144);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (145, '6/15/2018', 53, 'hijk', 145);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (146, '1/28/2019', 26, 'efgh', 146);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (147, '10/1/2019', 8, 'hijk', 147);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (148, '4/20/2019', 33, 'efgh', 148);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (149, '1/18/2018', 61, 'abcd', 149);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (150, '5/3/2019', 64, 'abcd', 150);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (151, '12/19/2018', 44, 'efgh', 151);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (152, '10/20/2018', 45, 'efgh', 152);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (153, '2/15/2019', 11, 'hijk', 153);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (154, '9/11/2018', 29, 'hijk', 154);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (155, '3/4/2019', 27, 'hijk', 155);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (156, '3/26/2018', 40, 'hijk', 156);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (157, '7/16/2018', 43, 'hijk', 157);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (158, '11/4/2018', 63, 'hijk', 158);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (159, '11/13/2019', 67, 'abcd', 159);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (160, '4/13/2019', 30, 'efgh', 160);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (161, '3/17/2018', 49, 'hijk', 161);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (162, '10/1/2018', 13, 'efgh', 162);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (163, '8/18/2018', 20, 'abcd', 163);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (164, '3/25/2018', 34, 'abcd', 164);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (165, '3/31/2019', 39, 'hijk', 165);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (166, '4/11/2019', 34, 'abcd', 166);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (167, '4/14/2019', 37, 'efgh', 167);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (168, '7/3/2019', 16, 'abcd', 168);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (169, '9/28/2018', 26, 'hijk', 169);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (170, '1/23/2019', 48, 'abcd', 170);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (171, '8/22/2019', 58, 'abcd', 171);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (172, '6/12/2018', 39, 'efgh', 172);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (173, '3/26/2018', 32, 'efgh', 173);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (174, '1/4/2019', 42, 'hijk', 174);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (175, '11/23/2018', 67, 'efgh', 175);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (176, '12/26/2018', 25, 'efgh', 176);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (177, '1/30/2018', 5, 'hijk', 177);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (178, '3/7/2018', 4, 'efgh', 178);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (179, '4/19/2018', 68, 'efgh', 179);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (180, '5/24/2018', 22, 'abcd', 180);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (181, '6/20/2018', 6, 'abcd', 181);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (182, '8/17/2019', 57, 'efgh', 182);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (183, '8/21/2018', 44, 'efgh', 183);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (184, '2/10/2018', 45, 'abcd', 184);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (185, '11/28/2018', 44, 'hijk', 185);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (186, '3/1/2019', 38, 'efgh', 186);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (187, '12/26/2018', 69, 'efgh', 187);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (188, '10/18/2019', 24, 'abcd', 188);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (189, '10/11/2019', 54, 'hijk', 189);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (190, '12/13/2018', 16, 'efgh', 190);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (191, '8/16/2019', 65, 'abcd', 191);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (192, '10/6/2019', 42, 'hijk', 192);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (193, '4/25/2018', 46, 'efgh', 193);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (194, '5/9/2018', 22, 'abcd', 194);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (195, '10/21/2018', 1, 'efgh', 195);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (196, '2/28/2019', 18, 'efgh', 196);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (197, '8/11/2019', 33, 'abcd', 197);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (198, '7/7/2019', 26, 'hijk', 198);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (199, '12/31/2018', 59, 'hijk', 199);
+insert into visit (visit_id, date, d_ssn, complaints, p_ssn) values (200, '2/19/2018', 20, 'abcd', 200);
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+9) records insert script
+
+DO $$DECLARE r record;
+	 declare j int;
+BEGIN
+	j:=1;
+    FOR r in 1..1000
+    LOOP
+		if j%500=0 then
+			insert into records values(j,500);
+		else
+			insert into records values(j,j%500);
+		end if;
+		j=j+1;    
+	END LOOP;
+END$$;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+10) insert in record details table
+
+
+Entry in reord detail table
+
+DO $$DECLARE r record;
+	 declare j int;
+	 declare i int;
+BEGIN
+	j:=1;
+	i:=1;
+    FOR r IN (select record_id from records)
+    LOOP
+		insert into details values(r.record_id,'blood test','WBC',random()*(15000-3000)+3000);
+		insert into details values(r.record_id,'blood test','RBC',random()*(15-1)+1);
+		insert into details values(r.record_id,'blood test','himoglobin',random()*(25-5)+5);
+		insert into details values(r.record_id,'blood test','Platelet_count',random()*(500000-100000)+10000);
+		
+		if r.record_id%8=0 then
+			insert into details values(r.record_id,'urine test','color','yellow' );
+		elsif r.record_id%8=1 then
+			insert into details values(r.record_id,'urine test','color','Light orange' );
+		elsif r.record_id%8=2 then
+			insert into details values(r.record_id,'urine test','color','Dark orange' );
+		elsif r.record_id%8=3 then
+			insert into details values(r.record_id,'urine test','color','bloody' );
+		elsif r.record_id%8=4 then
+			insert into details values(r.record_id,'urine test','color','Black' );
+		elsif r.record_id%8=5 then
+			insert into details values(r.record_id,'urine test','color','yellow' );
+		elsif r.record_id%8=6 then
+			insert into details values(r.record_id,'urine test','color','orange' );
+		elsif r.record_id%8=7 then
+			insert into details values(r.record_id,'urine test','color','reddish' );
+		end if;
+		
+		if r.record_id%7=0 then
+			insert into details values(r.record_id,'urine test','smell','fish_like');
+		else
+			insert into details values(r.record_id,'urine test','smell','normal');
+		end if;
+		
+		insert into details values(r.record_id,'urine test','pH',random()*(10-3)+3);
+		
+		insert into details values(r.record_id,'urine test','protien',random()*(20-0));
+		
+		
+		if r.record_id%4=1 then
+			insert into details values(r.record_id,'stool test','color','Normal');		
+		elsif r.record_id%4=2 then
+			insert into details values(r.record_id,'stool test','color','green');		
+		elsif r.record_id%4=3 then
+			insert into details values(r.record_id,'stool test','color','red orr black');
+		elsif r.record_id%4=0 then
+			insert into details values(r.record_id,'stool test','color','other' );
+		end if;
+		
+		
+		insert into details values(r.record_id,'stool test','pH',random()*(10-5)+5);
+		
+	END LOOP;
+END$$;
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+11) yields insert
+
+
+DO $$DECLARE r record;
+	 declare j int;
+	 declare i int;
+BEGIN
+	j:=1;
+	i:=1;
+    FOR r IN (select visit_id from visit where visit_id<=1000 order by visit_id asc)
+    LOOP
+		for cn in 1..3 loop
+			if j%10 = 0 then
+				insert into yields values(r.visit_id,10) ;
+				j=j+1;
+			else
+				insert into yields values(r.visit_id,j%10);
+				j=j+1;
+			end if;   
+		end loop;
+		i=i+1;
+	END LOOP;
+END$$;
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+12)prescription insert script
+
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (1, 10, 'Adhes due to fb acc left in body fol infusn/transfusn, subs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (2, 20, 'Nondisp fx of lateral condyle of l femr, 7thB', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (3, 10, 'Complication of mesent art following a procedure, NEC, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (4, 10, 'Pre-existing type 1 diabetes, in pregnancy, third trimester', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (5, 20, 'Oth intentional self-harm by drowning and submersion, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (6, 10, 'Oth comp specific to multiple gestation, second trimester', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (7, 10, 'Oth fx right patella, subs for opn fx type 3A/B/C w nonunion', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (8, 20, 'External constriction, left ankle', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (9, 10, 'Other specified arthritis, left knee', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (10, 10, 'Traumatic cerebral edema w LOC >24 hr w/o ret consc w surv', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (11, 10, 'Monteggia''s fx unsp ulna, 7thJ', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (12, 10, 'Displ oth extrartic fx l calcaneus, subs for fx w routn heal', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (13, 20, 'Crushing injury of right foot, subsequent encounter', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (14, 20, 'Nondisp fx of shaft of 3rd MC bone, r hand, 7thK', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (15, 10, 'Type I occipital condyle fracture, unspecified side, 7thK', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (16, 20, 'Burn w resulting rupture and dest of unsp eyeball, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (17, 10, 'Toxic effect of other alcohols, assault, initial encounter', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (18, 20, 'Effect of reduced temperature, unspecified, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (19, 20, 'Injury of unsp muscles, fascia and tendons at thigh level', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (20, 10, 'Contusion of thoracic trachea, initial encounter', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (21, 20, 'Unsp focal TBI w LOC w death due to oth cause bf consc, sqla', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (22, 10, 'Nondisp fx of nk of l rad, 7thQ', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (23, 20, 'Unsp physl fx upper end rad, r arm, subs for fx w malunion', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (24, 10, 'Chronic pulmonary histoplasmosis capsulati', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (25, 10, 'Strain of intrinsic msl/tnd at ank/ft level, left foot, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (26, 20, 'Pedl cyc pasngr inj in clsn w statnry object in traf, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (27, 20, 'Maternal care for oth fetal abnormality and damage, unsp', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (28, 10, 'Stress fracture, right radius, subs for fx w routn heal', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (29, 10, 'Disloc of metacarpal (bone), proximal end of unsp hand, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (30, 20, 'Non-pressure chronic ulcer of left calf w necrosis of muscle', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (31, 20, 'Poisoning by oth systemic anti-infect/parasit, undetermined', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (32, 20, 'Sicca syndrome, unspecified', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (33, 20, 'Corrosion of unspecified degree of upper back', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (34, 20, 'Cytomegaloviral disease, unspecified', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (35, 10, 'Poisoning by unsp fibrin-affct drugs, undetermined, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (36, 10, 'Coma scale, best motor response, flexion withdrawal, EMR', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (37, 10, 'Sprain of unsp parts of unsp shoulder girdle, subs encntr', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (38, 10, 'Torus fx upper end of r fibula, subs for fx w malunion', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (39, 20, 'Burn due to water-skis on fire, subsequent encounter', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (40, 10, 'Poisoning by unsp hormone antagonists, self-harm, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (41, 10, 'Blister (nonthermal) of right wrist, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (42, 10, 'Laceration w foreign body of left thumb with damage to nail', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (43, 20, 'Corrosion of first degree of left ear, subsequent encounter', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (44, 10, 'Displacement of implanted testicular prosthesis', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (45, 10, 'Puncture wound with foreign body, right ankle, subs encntr', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (46, 10, 'Displ transverse fx shaft of r tibia, 7thQ', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (47, 20, '35 weeks gestation of pregnancy', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (48, 10, 'Puncture wound with foreign body of larynx, subs encntr', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (49, 10, 'Laceration with foreign body, left hip', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (50, 20, 'Fracture of unsp part of l clavicle, subs for fx w malunion', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (51, 20, 'Family history of tobacco abuse and dependence', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (52, 20, 'Legal intervnt w inj by tear gas, law enforc offl inj, subs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (53, 10, 'Inj muscle, fascia and tendon of pelvis, subs encntr', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (54, 20, 'Frostbite with tissue necrosis of left ankle, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (55, 20, 'Legal intervnt w manhandling, suspect injured, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (56, 10, 'Unsp fx shaft of humerus, unsp arm, subs for fx w routn heal', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (57, 10, 'Animal-rider injured in collision w rail trn/veh, subs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (58, 20, 'Pathological fracture, left humerus, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (59, 10, 'Sltr-haris Type II physeal fracture of lower end of fibula', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (60, 10, 'Lacerat extn musc/fasc/tend r idx fngr at forarm lv, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (61, 10, 'Postproc hematoma of a dgstv sys org fol other procedure', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (62, 10, 'Displ transverse fx shaft of unsp femr, 7thB', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (63, 20, 'Adverse effect of other parasympathomimetics [cholinergics]', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (64, 20, 'Degeneration of ciliary body, right eye', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (65, 20, 'Complete traumatic amputation of right foot, level unsp', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (66, 10, 'Nondisp fx of shaft of 2nd MC bone, r hand, 7thP', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (67, 10, 'Oth complication of cardiac prosth dev/grft, subs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (68, 10, 'Laceration of unsp tibial artery, left leg, subs encntr', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (69, 10, 'Injury of thoracic sympathetic nervous system, init encntr', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (70, 10, 'Inj musc/fasc/tend at wrist and hand level, left hand', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (71, 10, 'Toxic effects of corrosive alkalis and alk-like substances', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (72, 10, 'Nondisp seg fx shaft of l fibula, 7thM', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (73, 20, 'Abrasion, left ankle, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (74, 10, 'Polyhydramnios', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (75, 20, 'Toxic effect of venom of Australian snake, self-harm, subs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (76, 20, 'Meningococcal encephalitis', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (77, 10, 'Nondisp fx of greater tuberosity of unsp humer, 7thD', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (78, 10, 'Nondisp spiral fx shaft of rad, r arm, 7thD', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (79, 20, 'Corrosion of 3rd deg mu sites of right ankle and foot, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (80, 20, 'Displaced osteochondral fracture of right patella, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (81, 10, 'Poisoning by amphetamines, intentional self-harm, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (82, 20, 'Other birth injuries', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (83, 20, 'Pedl cyc passenger injured in collision w 2/3-whl mv in traf', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (84, 10, 'Unsp superfic injury of unsp external genital organs, male', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (85, 10, 'Burn third deg of unsp site right low limb, ex ank/ft, sqla', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (86, 20, 'Postthrom syndrome w ulcer and inflammation of r low extrem', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (87, 20, 'Injury of olfactory nerve, right side, subsequent encounter', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (88, 10, 'Generalized atherosclerosis', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (89, 20, 'Nondisp transverse fx shaft of unsp rad, 7thR', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (90, 20, 'Open bite of left middle finger without damage to nail', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (91, 10, 'Chronic allergic otitis media', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (92, 10, 'Fracture of xiphoid process', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (93, 10, 'Infections of cervix in pregnancy, unspecified trimester', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (94, 10, 'Laceration of posterior tibial artery', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (95, 10, 'Legal intervnt involving unsp firearm disch, bystand injured', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (96, 20, 'Puncture wound with foreign body of oth part of neck', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (97, 10, 'Panniculitis affecting regions of neck/bk, lumbar region', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (98, 10, 'Unspecified fracture of fourth lumbar vertebra', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (99, 20, 'Chronic hepatic failure without coma', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (100, 20, 'Bus occupant (driver) (passenger) injured in unsp traf', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (101, 20, 'Developmental disorder of scholastic skills, unspecified', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (102, 20, 'Nondisp seg fx shaft of unsp femr, 7thH', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (103, 10, 'Other injury of fallopian tube, bilateral, subs encntr', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (104, 10, 'Peripheral pterygium of eye, progressive', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (105, 20, 'Mtrcy pasngr injured in clsn w 2/3-whl mv in traf, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (106, 20, 'Inferior dislocation of unspecified humerus, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (107, 10, 'Traum rupture of palmar ligament of r rng fngr at MCP/IP jt', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (108, 10, 'Other deformity of left finger(s)', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (109, 20, 'Hemorrhage due to vascular prosth dev/grft, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (110, 20, 'Nondisp fx of capitate bone, unsp wrs, 7thP', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (111, 20, 'Mtrcy driver injured in clsn w ped/anml nontraf, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (112, 10, 'Longitudinal reduction defect of femur, bilateral', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (113, 20, 'Acute infarction of spinal cord (embolic) (nonembolic)', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (114, 10, 'Crushing injury of unspecified toe(s), sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (115, 10, 'Carrier of other infectious diseases', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (116, 10, 'Food allergy status', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (117, 10, 'Cerebral infarction due to embolism of unsp carotid artery', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (118, 10, 'Toxic effect of formaldehyde, assault', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (119, 10, 'Other diseases of intestine', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (120, 20, 'Other specified osteochondropathies, right lower leg', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (121, 20, 'Puncture wound w/o foreign body oth prt head, subs encntr', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (122, 10, 'Burn third degree of unsp single finger except thumb, subs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (123, 20, 'Disp fx of low epiphy (separation) of unsp femr, 7thJ', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (124, 10, 'Zoster meningitis', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (125, 10, 'War op w unsp fire/conflagr/hot subst, civilian, subs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (126, 10, 'Abnormal results of other function studies of eye', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (127, 10, 'Nondisp oblique fx shaft of humer, l arm, 7thG', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (128, 20, 'Insect bite (nonvenomous) of left thumb', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (129, 20, 'Lac w/o fb of abd wall, right lower q w/o penet perit cav', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (130, 10, 'Superior glenoid labrum lesion of unsp shoulder, init encntr', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (131, 20, 'Poisoning by oth antidepressants, accidental, subs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (132, 10, 'Lymphedema, not elsewhere classified', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (133, 20, 'Other stimulant use, unsp with intoxication, unspecified', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (134, 20, 'Nondisp spiral fx shaft of ulna, unsp arm, 7thH', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (135, 20, 'Atrophy of orbit', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (136, 20, 'Blister (nonthermal) of right wrist, initial encounter', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (137, 10, 'Adverse effect of butyrophen/thiothixen neuroleptics, subs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (138, 20, 'Nondisp fx of distal phalanx of right thumb, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (139, 20, 'Laceration of ulnar artery at wrs/hnd lv of right arm, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (140, 20, 'Inj blood vessel of right index finger, init encntr', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (141, 20, 'Unspecified reduction defect of right lower limb', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (142, 20, 'Puncture wound with foreign body of trachea, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (143, 20, 'Toxic effect of venom of spider, intentional self-harm, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (144, 10, 'Laceration with foreign body, right knee, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (145, 20, 'Congenital deformities of hip', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (146, 20, 'Laceration of blood vessels at ank/ft level, left leg, subs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (147, 10, 'Corrosion of unsp deg mult fingers (nail), including thumb', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (148, 10, 'Underdosing of other estrogens and progestogens, subs encntr', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (149, 20, 'Ulcerative (chronic) pancolitis with abscess', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (150, 20, 'Other general symptoms and signs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (151, 20, 'Other encephalopathy', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (152, 20, 'Nondisp commnt fx shaft of r femr, 7thP', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (153, 20, 'Unspecified viral hepatitis without hepatic coma', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (154, 10, 'Ant cord syndrome at unsp level of thor spinal cord, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (155, 10, 'Nondisp transverse fx shaft of r femr, 7thM', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (156, 20, 'Other streptococcal arthritis, left knee', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (157, 20, 'Dislocation of metacarpophalangeal joint of left ring finger', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (158, 10, 'Nondisp fx of base of unsp metacarpal bone, init for opn fx', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (159, 20, 'Specific developmental disorders of speech and language', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (160, 20, 'Athscl nonbiol bypass of left leg w ulcer of heel and midft', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (161, 10, 'Expsr to industr wiring, appliances & electrical mach, init', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (162, 10, 'Pnctr w/o fb of low back & pelv w/o penet retroperiton, sqla', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (163, 10, 'Adverse effect of cardi-stim glycos/drug simlar act', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (164, 10, 'Soemmering''s ring, bilateral', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (165, 20, 'Other specified injuries of cervical trachea, init encntr', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (166, 20, 'Tuberculosis of bladder', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (167, 10, 'Superior glenoid labrum lesion of left shoulder', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (168, 20, 'Other superficial bite of oth part of neck, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (169, 10, 'Poisoning by unsp hormone antagonists, undetermined, subs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (170, 10, 'Combined forms of infantile and juvenile cataract, bilateral', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (171, 20, 'Displacement of permanent sutures, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (172, 20, 'Burn of second degree of unspecified toe(s) (nail), sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (173, 10, 'Other disorders of patella', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (174, 20, 'Malignant neoplasm of retina', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (175, 10, 'Disp fx of prox phalanx of l little finger, init for opn fx', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (176, 10, 'Unspecified injury of adrenal gland, initial encounter', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (177, 10, 'Contact with other hoof stock', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (178, 10, 'Drown due to oth accident to sailboat, subs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (179, 20, 'Chronic or unspecified duodenal ulcer with hemorrhage', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (180, 20, 'Exposure to bed fire due to other burning material, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (181, 20, 'Unsp fracture of right ilium, init encntr for open fracture', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (182, 10, 'Derang of ant horn of medial meniscus due to old tear/inj', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (183, 10, 'Other sprain of left shoulder joint, subsequent encounter', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (184, 20, 'Narcolepsy', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (185, 10, 'Pnctr w/o fb of l bk wl of thorax w penet thor cavity, subs', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (186, 10, 'Traum hemor left cerebrum w/o loss of consciousness', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (187, 20, 'Disp fx of nk of 4th MC bone, r hand, 7thG', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (188, 20, 'Maternal care for damage to fetus from alcohol, unsp', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (189, 20, 'Adhes due to fb acc left in body fol surgical operation', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (190, 20, 'Cont preg aft elctv fetl rdct of one fts or more, third tri', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (191, 10, 'Nondisp fx of body of unsp calcaneus, init for clos fx', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (192, 20, 'Nondisplaced fracture of pisiform, left wrist, sequela', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (193, 10, 'Oth fx shaft of left femur, subs for clos fx w malunion', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (194, 10, 'Human immunodeficiency virus disease complicating childbirth', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (195, 10, 'Sympathetic uveitis, right eye', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (196, 20, 'Osteochondritis dissecans, left hip', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (197, 20, 'Disp fx of distal pole of navicular bone of unsp wrist', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (198, 20, 'Other hypertrophic osteoarthropathy, left upper arm', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (199, 10, 'Unsp dislocation of unsp sternoclavicular joint, init encntr', '');
+insert into prescription (pres_id, medicine_quantity, Disease_description, Instructions) values (200, 10, 'Cyst of ora serrata, unspecified eye', '');
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+13) payment insert script
+
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (1, 1, 'Yearly', '11/8/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (2, 2, 'Daily', '7/3/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (3, 3, 'Yearly', '3/12/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (4, 4, 'Often', '4/15/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (5, 5, 'Often', '3/22/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (6, 6, 'Monthly', '3/27/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (7, 7, 'Seldom', '4/5/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (8, 8, 'Once', '10/14/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (9, 9, 'Seldom', '4/13/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (10, 10, 'Yearly', '10/22/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (11, 11, 'Monthly', '7/2/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (12, 12, 'Monthly', '8/9/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (13, 13, 'Once', '6/20/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (14, 14, 'Yearly', '6/17/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (15, 15, 'Daily', '9/17/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (16, 16, 'Yearly', '8/23/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (17, 17, 'Monthly', '9/1/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (18, 18, 'Once', '3/8/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (19, 19, 'Often', '11/29/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (20, 20, 'Once', '8/11/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (21, 21, 'Once', '12/20/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (22, 22, 'Daily', '5/19/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (23, 23, 'Never', '7/9/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (24, 24, 'Yearly', '1/16/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (25, 25, 'Seldom', '11/4/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (26, 26, 'Monthly', '11/16/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (27, 27, 'Yearly', '7/30/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (28, 28, 'Daily', '1/27/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (29, 29, 'Monthly', '8/8/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (30, 30, 'Often', '1/30/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (31, 31, 'Often', '5/16/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (32, 32, 'Seldom', '11/2/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (33, 33, 'Seldom', '3/9/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (34, 34, 'Yearly', '1/6/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (35, 35, 'Once', '3/3/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (36, 36, 'Seldom', '1/25/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (37, 37, 'Once', '3/22/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (38, 38, 'Often', '8/9/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (39, 39, 'Daily', '12/24/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (40, 40, 'Never', '11/1/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (41, 41, 'Yearly', '9/18/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (42, 42, 'Weekly', '6/17/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (43, 43, 'Seldom', '8/4/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (44, 44, 'Never', '2/1/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (45, 45, 'Seldom', '6/18/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (46, 46, 'Monthly', '7/22/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (47, 47, 'Weekly', '7/14/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (48, 48, 'Once', '8/29/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (49, 49, 'Yearly', '4/8/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (50, 50, 'Seldom', '1/23/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (51, 51, 'Seldom', '7/14/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (52, 52, 'Seldom', '6/2/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (53, 53, 'Monthly', '10/17/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (54, 54, 'Daily', '4/20/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (55, 55, 'Never', '10/12/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (56, 56, 'Often', '9/8/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (57, 57, 'Seldom', '4/1/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (58, 58, 'Once', '12/26/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (59, 59, 'Seldom', '2/14/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (60, 60, 'Yearly', '10/18/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (61, 61, 'Monthly', '5/8/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (62, 62, 'Monthly', '6/4/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (63, 63, 'Daily', '12/24/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (64, 64, 'Seldom', '2/11/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (65, 65, 'Yearly', '2/16/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (66, 66, 'Once', '8/25/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (67, 67, 'Daily', '9/30/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (68, 68, 'Seldom', '2/1/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (69, 69, 'Yearly', '8/27/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (70, 70, 'Yearly', '5/19/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (71, 71, 'Once', '10/1/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (72, 72, 'Never', '9/17/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (73, 73, 'Daily', '2/6/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (74, 74, 'Monthly', '9/1/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (75, 75, 'Weekly', '9/7/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (76, 76, 'Once', '3/28/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (77, 77, 'Weekly', '2/4/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (78, 78, 'Never', '4/11/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (79, 79, 'Daily', '2/6/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (80, 80, 'Weekly', '5/21/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (81, 81, 'Weekly', '7/26/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (82, 82, 'Monthly', '1/27/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (83, 83, 'Yearly', '1/22/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (84, 84, 'Monthly', '2/19/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (85, 85, 'Monthly', '12/5/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (86, 86, 'Monthly', '9/26/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (87, 87, 'Weekly', '4/15/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (88, 88, 'Daily', '10/18/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (89, 89, 'Weekly', '10/23/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (90, 90, 'Monthly', '10/8/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (91, 91, 'Once', '3/15/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (92, 92, 'Often', '2/27/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (93, 93, 'Daily', '12/11/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (94, 94, 'Monthly', '6/3/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (95, 95, 'Monthly', '3/1/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (96, 96, 'Yearly', '7/17/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (97, 97, 'Often', '8/1/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (98, 98, 'Often', '11/13/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (99, 99, 'Seldom', '1/26/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (100, 100, 'Weekly', '10/9/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (101, 101, 'Often', '9/29/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (102, 102, 'Often', '10/25/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (103, 103, 'Once', '4/2/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (104, 104, 'Once', '12/4/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (105, 105, 'Often', '4/10/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (106, 106, 'Once', '6/30/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (107, 107, 'Never', '3/7/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (108, 108, 'Never', '4/12/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (109, 109, 'Daily', '8/12/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (110, 110, 'Monthly', '8/22/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (111, 111, 'Never', '5/31/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (112, 112, 'Often', '12/11/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (113, 113, 'Often', '10/11/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (114, 114, 'Weekly', '3/15/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (115, 115, 'Yearly', '7/23/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (116, 116, 'Weekly', '12/27/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (117, 117, 'Weekly', '3/31/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (118, 118, 'Seldom', '11/24/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (119, 119, 'Once', '2/4/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (120, 120, 'Never', '5/9/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (121, 121, 'Often', '3/8/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (122, 122, 'Weekly', '4/29/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (123, 123, 'Seldom', '11/20/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (124, 124, 'Daily', '2/13/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (125, 125, 'Weekly', '4/26/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (126, 126, 'Once', '9/6/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (127, 127, 'Often', '5/27/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (128, 128, 'Weekly', '3/18/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (129, 129, 'Yearly', '10/14/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (130, 130, 'Monthly', '4/5/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (131, 131, 'Weekly', '5/2/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (132, 132, 'Daily', '2/3/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (133, 133, 'Often', '9/30/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (134, 134, 'Often', '8/22/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (135, 135, 'Never', '7/8/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (136, 136, 'Monthly', '9/3/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (137, 137, 'Daily', '5/4/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (138, 138, 'Once', '4/21/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (139, 139, 'Once', '12/3/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (140, 140, 'Weekly', '3/29/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (141, 141, 'Weekly', '2/3/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (142, 142, 'Weekly', '10/17/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (143, 143, 'Yearly', '3/22/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (144, 144, 'Weekly', '2/15/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (145, 145, 'Monthly', '6/10/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (146, 146, 'Weekly', '11/11/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (147, 147, 'Monthly', '8/7/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (148, 148, 'Yearly', '7/25/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (149, 149, 'Monthly', '11/13/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (150, 150, 'Monthly', '10/23/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (151, 151, 'Often', '6/2/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (152, 152, 'Seldom', '4/1/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (153, 153, 'Yearly', '4/21/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (154, 154, 'Yearly', '5/6/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (155, 155, 'Yearly', '1/28/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (156, 156, 'Monthly', '12/3/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (157, 157, 'Once', '7/9/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (158, 158, 'Daily', '6/24/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (159, 159, 'Daily', '4/11/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (160, 160, 'Daily', '5/7/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (161, 161, 'Daily', '7/2/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (162, 162, 'Weekly', '12/4/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (163, 163, 'Weekly', '10/5/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (164, 164, 'Yearly', '9/10/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (165, 165, 'Once', '11/10/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (166, 166, 'Daily', '1/30/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (167, 167, 'Monthly', '1/3/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (168, 168, 'Daily', '4/5/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (169, 169, 'Monthly', '7/23/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (170, 170, 'Yearly', '2/19/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (171, 171, 'Yearly', '9/3/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (172, 172, 'Once', '4/5/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (173, 173, 'Seldom', '3/6/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (174, 174, 'Often', '3/12/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (175, 175, 'Never', '7/22/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (176, 176, 'Weekly', '3/30/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (177, 177, 'Weekly', '4/26/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (178, 178, 'Weekly', '2/8/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (179, 179, 'Once', '6/8/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (180, 180, 'Daily', '9/16/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (181, 181, 'Yearly', '7/27/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (182, 182, 'Often', '4/11/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (183, 183, 'Once', '5/3/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (184, 184, 'Often', '11/23/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (185, 185, 'Monthly', '9/22/2016');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (186, 186, 'Never', '4/4/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (187, 187, 'Daily', '5/6/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (188, 188, 'Once', '7/18/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (189, 189, 'Monthly', '11/9/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (190, 190, 'Daily', '9/7/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (191, 191, 'Never', '12/4/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (192, 192, 'Seldom', '11/26/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (193, 193, 'Daily', '1/22/2019');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (194, 194, 'Once', '12/14/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (195, 195, 'Yearly', '6/18/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (196, 196, 'Once', '4/3/2018');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (197, 197, 'Daily', '3/10/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (198, 198, 'Once', '5/24/2017');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (199, 199, 'Monthly', '2/12/2015');
+insert into payment (transaction_id, bill_no, payment_method, p_date) values (200, 200, 'Weekly', '4/7/2018');
+
+
+update payment : 
+DO $$
+BEGIN
+   FOR counter IN 1..1000 LOOP
+      IF mod(counter,7)=1 THEN
+	   update payment set payment_method='Credit Card' where transaction_id=counter;
+	  END IF;
+	  IF mod(counter,7)=2 THEN
+	   update payment set payment_method='Debit Card' where transaction_id=counter;
+	  END IF;
+	  IF mod(counter,7)=3 THEN
+	   update payment set payment_method='Cheque' where transaction_id=counter;
+	  END IF;
+	  IF mod(counter,7)=4 THEN
+	   update payment set payment_method='Cash' where transaction_id=counter;
+	  END IF;
+	  IF mod(counter,7)=5 THEN
+	   update payment set payment_method='PayTm' where transaction_id=counter;
+	  END IF;
+	  IF mod(counter,7)=6 THEN
+	   update payment set payment_method='Other' where transaction_id=counter;
+	  END IF;
+	  IF mod(counter,7)=0 THEN
+	   update payment set payment_method='DD' where transaction_id=counter;
+	  END IF;
+   END LOOP;
+END; $$
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+14) diagnosis insert script
+
+insert into diagnosis (diagnosis_id, dia_name) values (1, 'HIV Test');
+insert into diagnosis (diagnosis_id, dia_name) values (2, 'urin test');
+insert into diagnosis (diagnosis_id, dia_name) values (3, 'cardiography');
+insert into diagnosis (diagnosis_id, dia_name) values (4, 'CT_scan');
+insert into diagnosis (diagnosis_id, dia_name) values (5, 'dexa test');
+insert into diagnosis (diagnosis_id, dia_name) values (6, 'x-ray');
+insert into diagnosis (diagnosis_id, dia_name) values (7, 'blood pressure check');
+insert into diagnosis (diagnosis_id, dia_name) values (8, 'himoglobin');
+insert into diagnosis (diagnosis_id, dia_name) values (9, 'stool test');
+insert into diagnosis (diagnosis_id, dia_name) values (10, 'normal test');
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+15)presmedicine insert script
+
+DO $$DECLARE r record;
+	 declare j int;
+	 declare i int;
+BEGIN
+	j:=1;
+	i:=1;
+    FOR r IN (select pres_id from prescription order by pres_id asc)
+    LOOP
+		for cn in 1..3 loop
+			if j%100 = 0 then
+				insert into yields values(r.pres_id,100) ;
+				j=j+1;
+			else
+				insert into yields values(r.pres_id,j%100);
+				j=j+1;
+			end if;   
+		end loop;
+		i=i+1;
+	END LOOP;
+END$$;
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+16)manufactured_by insert script
+
+DO $$DECLARE r record;
+	 declare j int;
+	 declare i int;
+BEGIN
+	j:=1;
+	i:=1;
+    FOR r IN 1..250
+    LOOP
+			if r%25 = 0 then
+				insert into yields values(r,25) ;
+			else
+				insert into yields values(r,r%25);
+			end if;   
+	END LOOP;
+END$$;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+

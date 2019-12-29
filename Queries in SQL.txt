@@ -1,0 +1,96 @@
+1) Give details of total visits on a particular day,
+
+select patient.*,doctor.* from visit natural join doctor join patient on(visit.p_ssn=patient.p_ssn) where(visit_date='2019/01/01');
+
+.........................................................................................................................................................
+
+2) Give details of all patients who had a particular disease (like dengue),
+
+select patient.* from visit natural join prescription natural join patient where Disease_Description='Dengue';
+
+.........................................................................................................................................................
+
+3) Give date wise total payments received from patients,
+
+select p_date,sum(amount) from bill join payment on (bill.bill_no=payment.bill_no) group by p_date;
+
+.........................................................................................................................................................
+
+4) Showing all the patients with insurance,
+
+select patient.P_ssn, insurance_company.ins_id from patient join visit on (patient.P_ssn = visit.P_ssn) join bill on (visit.Visit_id = bill.visit_id) 
+join insurance_company on (bill.ins_id = insurance_company.ins_id) where insurance_company.ins_id is not null;
+
+.........................................................................................................................................................
+
+5) Give bill and payment details of a particular patient,
+
+select patient.P_ssn, visit.Visit_id, bill.Bill_No, bill.Amount, bill.Bill_Date, bill.Due_Date, bill.Ins_id, payment.Transaction_id, payment.Payment_Method, payment.P_Date
+from patient join visit on (patient.P_ssn = visit.P_ssn) join bill on (visit.Visit_id =  bill.Visit_id) join payment on (bill.Bill_No = payment.Bill_No) where patient.p_ssn=1;
+
+.........................................................................................................................................................
+
+6) Give list of all medicines prescribed for the given prescription id,
+
+select presmedicine.prescription_id, medicines.m_name, medicines.price, medicines.quantity, presmedicine.pres_qty from
+presmedicine join medicines on (presmedicine.inventory_id = medicines.minventory_id) where (presmedicine.prescription_id = '25');
+
+.........................................................................................................................................................
+
+7) Give fraction of patients who visited a particular doctor for all doctors, 
+
+Select d_ssn, (Count(distinct p_ssn)* 100 / (Select Count(distinct p_ssn) From visit)) as doc_percent_visits
+From visit Group By d_ssn;
+
+.........................................................................................................................................................
+
+8) Give details of patients who haven't paid bill by given due date,
+
+select patient.*,b.* from (select * from bill except (select bill.* from bill natural join payment)) as b 
+natural join visit natural join patient where(b.due_date<current_date);
+
+.........................................................................................................................................................
+
+9) Give diseasewise percentage of patients till now,
+
+Select disease_description, (Count(distinct p_ssn)* 100 / (Select Count(distinct p_ssn) 
+From (select * from prescription natural join visit natural join patient) as r)) as disease_perc
+From (select * from prescription natural join visit natural join patient) as r2 Group By disease_description;
+
+.........................................................................................................................................................
+
+10) Give datewise sum,
+
+select p_date,sum(amount) from bill join payment on bill.bill_no=payment.bill_no group by p_date;
+
+.........................................................................................................................................................
+
+11) Average count of particular parameter,
+
+select round( avg(parameter_count::decimal), 2 ) from details where parameter_name='RBC';
+
+.........................................................................................................................................................
+
+12) Maximum patient from an area,
+
+select max(cn),pin_code from (select count(p_ssn) as cn,pin_code from patient group by pin_code) as cnt group by pin_code;
+
+.........................................................................................................................................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
